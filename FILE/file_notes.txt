@@ -1,0 +1,7 @@
+- only one:
+    w: write
+    r: read
+- with:
+    t: create
+
+- while reading something, the end point is saved

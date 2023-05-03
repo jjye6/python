@@ -1,0 +1,1000 @@
+[{"dia":"2023-05-02T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"141.58","percentatge_volum_embassat":"28.9","volum_embassat":"17.68"}
+,{"dia":"2023-05-02T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.52","percentatge_volum_embassat":"7.8","volum_embassat":"0.42"}
+,{"dia":"2023-05-02T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"772.15","percentatge_volum_embassat":"23.4","volum_embassat":"18.75"}
+,{"dia":"2023-05-02T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"317.02","percentatge_volum_embassat":"37.5","volum_embassat":"87.44"}
+,{"dia":"2023-05-02T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"381.1","percentatge_volum_embassat":"8.2","volum_embassat":"13.56"}
+,{"dia":"2023-05-02T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.38","percentatge_volum_embassat":"25.5","volum_embassat":"27.94"}
+,{"dia":"2023-05-02T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.41","percentatge_volum_embassat":"68","volum_embassat":"2.54"}
+,{"dia":"2023-05-02T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.23","percentatge_volum_embassat":"7.1","volum_embassat":"0.87"}
+,{"dia":"2023-05-02T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"513.39","percentatge_volum_embassat":"29.5","volum_embassat":"7.19"}
+,{"dia":"2023-05-01T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"513.37","percentatge_volum_embassat":"29.4","volum_embassat":"7.18"}
+,{"dia":"2023-05-01T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"772.22","percentatge_volum_embassat":"23.5","volum_embassat":"18.81"}
+,{"dia":"2023-05-01T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.44","percentatge_volum_embassat":"68.4","volum_embassat":"2.56"}
+,{"dia":"2023-05-01T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"141.59","percentatge_volum_embassat":"29","volum_embassat":"17.69"}
+,{"dia":"2023-05-01T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.25","percentatge_volum_embassat":"7.1","volum_embassat":"0.87"}
+,{"dia":"2023-05-01T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.54","percentatge_volum_embassat":"7.9","volum_embassat":"0.42"}
+,{"dia":"2023-05-01T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"317.11","percentatge_volum_embassat":"37.7","volum_embassat":"87.74"}
+,{"dia":"2023-05-01T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.34","percentatge_volum_embassat":"25.5","volum_embassat":"27.88"}
+,{"dia":"2023-05-01T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"380.62","percentatge_volum_embassat":"7.7","volum_embassat":"12.79"}
+,{"dia":"2023-04-30T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.26","percentatge_volum_embassat":"7.1","volum_embassat":"0.87"}
+,{"dia":"2023-04-30T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"141.61","percentatge_volum_embassat":"29","volum_embassat":"17.73"}
+,{"dia":"2023-04-30T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"379.88","percentatge_volum_embassat":"7.1","volum_embassat":"11.66"}
+,{"dia":"2023-04-30T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.55","percentatge_volum_embassat":"7.9","volum_embassat":"0.42"}
+,{"dia":"2023-04-30T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"317.14","percentatge_volum_embassat":"37.7","volum_embassat":"87.82"}
+,{"dia":"2023-04-30T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.26","percentatge_volum_embassat":"25.4","volum_embassat":"27.77"}
+,{"dia":"2023-04-30T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"772.27","percentatge_volum_embassat":"23.6","volum_embassat":"18.86"}
+,{"dia":"2023-04-30T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.44","percentatge_volum_embassat":"68.5","volum_embassat":"2.56"}
+,{"dia":"2023-04-30T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"513.36","percentatge_volum_embassat":"29.4","volum_embassat":"7.17"}
+,{"dia":"2023-04-29T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"141.61","percentatge_volum_embassat":"29","volum_embassat":"17.72"}
+,{"dia":"2023-04-29T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"317.2","percentatge_volum_embassat":"37.7","volum_embassat":"87.94"}
+,{"dia":"2023-04-29T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"513.4","percentatge_volum_embassat":"29.5","volum_embassat":"7.19"}
+,{"dia":"2023-04-29T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.56","percentatge_volum_embassat":"7.9","volum_embassat":"0.42"}
+,{"dia":"2023-04-29T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"379.77","percentatge_volum_embassat":"7","volum_embassat":"11.49"}
+,{"dia":"2023-04-29T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.14","percentatge_volum_embassat":"25.2","volum_embassat":"27.61"}
+,{"dia":"2023-04-29T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"772.29","percentatge_volum_embassat":"23.6","volum_embassat":"18.88"}
+,{"dia":"2023-04-29T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.27","percentatge_volum_embassat":"7.2","volum_embassat":"0.88"}
+,{"dia":"2023-04-29T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.45","percentatge_volum_embassat":"68.5","volum_embassat":"2.56"}
+,{"dia":"2023-04-28T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"141.62","percentatge_volum_embassat":"29","volum_embassat":"17.74"}
+,{"dia":"2023-04-28T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"772.37","percentatge_volum_embassat":"23.7","volum_embassat":"18.95"}
+,{"dia":"2023-04-28T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.16","percentatge_volum_embassat":"25.3","volum_embassat":"27.64"}
+,{"dia":"2023-04-28T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.46","percentatge_volum_embassat":"68.6","volum_embassat":"2.57"}
+,{"dia":"2023-04-28T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"513.45","percentatge_volum_embassat":"29.6","volum_embassat":"7.23"}
+,{"dia":"2023-04-28T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"317.3","percentatge_volum_embassat":"37.9","volum_embassat":"88.23"}
+,{"dia":"2023-04-28T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"379.78","percentatge_volum_embassat":"7","volum_embassat":"11.5"}
+,{"dia":"2023-04-28T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.28","percentatge_volum_embassat":"7.2","volum_embassat":"0.88"}
+,{"dia":"2023-04-28T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.57","percentatge_volum_embassat":"7.9","volum_embassat":"0.42"}
+,{"dia":"2023-04-27T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"772.45","percentatge_volum_embassat":"23.8","volum_embassat":"19.03"}
+,{"dia":"2023-04-27T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"141.64","percentatge_volum_embassat":"29.1","volum_embassat":"17.77"}
+,{"dia":"2023-04-27T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.6","percentatge_volum_embassat":"8","volum_embassat":"0.42"}
+,{"dia":"2023-04-27T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"379.81","percentatge_volum_embassat":"7","volum_embassat":"11.54"}
+,{"dia":"2023-04-27T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"317.38","percentatge_volum_embassat":"38","volum_embassat":"88.48"}
+,{"dia":"2023-04-27T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"513.5","percentatge_volum_embassat":"29.8","volum_embassat":"7.27"}
+,{"dia":"2023-04-27T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.19","percentatge_volum_embassat":"25.3","volum_embassat":"27.68"}
+,{"dia":"2023-04-27T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.29","percentatge_volum_embassat":"7.2","volum_embassat":"0.88"}
+,{"dia":"2023-04-27T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.48","percentatge_volum_embassat":"69","volum_embassat":"2.58"}
+,{"dia":"2023-04-26T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"379.82","percentatge_volum_embassat":"7","volum_embassat":"11.57"}
+,{"dia":"2023-04-26T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"317.46","percentatge_volum_embassat":"38.1","volum_embassat":"88.73"}
+,{"dia":"2023-04-26T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.61","percentatge_volum_embassat":"8","volum_embassat":"0.42"}
+,{"dia":"2023-04-26T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.22","percentatge_volum_embassat":"25.3","volum_embassat":"27.72"}
+,{"dia":"2023-04-26T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"141.65","percentatge_volum_embassat":"29.1","volum_embassat":"17.78"}
+,{"dia":"2023-04-26T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.49","percentatge_volum_embassat":"69.1","volum_embassat":"2.59"}
+,{"dia":"2023-04-26T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.31","percentatge_volum_embassat":"7.2","volum_embassat":"0.88"}
+,{"dia":"2023-04-26T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"513.55","percentatge_volum_embassat":"29.9","volum_embassat":"7.3"}
+,{"dia":"2023-04-26T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"772.52","percentatge_volum_embassat":"23.9","volum_embassat":"19.09"}
+,{"dia":"2023-04-25T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"317.56","percentatge_volum_embassat":"38.2","volum_embassat":"89.02"}
+,{"dia":"2023-04-25T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.5","percentatge_volum_embassat":"69.2","volum_embassat":"2.59"}
+,{"dia":"2023-04-25T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.61","percentatge_volum_embassat":"8","volum_embassat":"0.43"}
+,{"dia":"2023-04-25T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.26","percentatge_volum_embassat":"25.4","volum_embassat":"27.77"}
+,{"dia":"2023-04-25T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"772.61","percentatge_volum_embassat":"24","volum_embassat":"19.17"}
+,{"dia":"2023-04-25T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"141.67","percentatge_volum_embassat":"29.2","volum_embassat":"17.82"}
+,{"dia":"2023-04-25T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"513.6","percentatge_volum_embassat":"30.1","volum_embassat":"7.33"}
+,{"dia":"2023-04-25T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"379.78","percentatge_volum_embassat":"7","volum_embassat":"11.5"}
+,{"dia":"2023-04-25T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.31","percentatge_volum_embassat":"7.2","volum_embassat":"0.88"}
+,{"dia":"2023-04-24T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"513.65","percentatge_volum_embassat":"30.2","volum_embassat":"7.37"}
+,{"dia":"2023-04-24T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.62","percentatge_volum_embassat":"8","volum_embassat":"0.43"}
+,{"dia":"2023-04-24T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.53","percentatge_volum_embassat":"69.6","volum_embassat":"2.6"}
+,{"dia":"2023-04-24T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"141.67","percentatge_volum_embassat":"29.2","volum_embassat":"17.82"}
+,{"dia":"2023-04-24T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"772.69","percentatge_volum_embassat":"24.1","volum_embassat":"19.25"}
+,{"dia":"2023-04-24T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.31","percentatge_volum_embassat":"7.2","volum_embassat":"0.88"}
+,{"dia":"2023-04-24T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"317.64","percentatge_volum_embassat":"38.3","volum_embassat":"89.26"}
+,{"dia":"2023-04-24T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"379.75","percentatge_volum_embassat":"6.9","volum_embassat":"11.45"}
+,{"dia":"2023-04-24T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.3","percentatge_volum_embassat":"25.4","volum_embassat":"27.83"}
+,{"dia":"2023-04-23T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"141.67","percentatge_volum_embassat":"29.2","volum_embassat":"17.82"}
+,{"dia":"2023-04-23T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"772.77","percentatge_volum_embassat":"24.2","volum_embassat":"19.32"}
+,{"dia":"2023-04-23T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.34","percentatge_volum_embassat":"25.5","volum_embassat":"27.88"}
+,{"dia":"2023-04-23T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"317.75","percentatge_volum_embassat":"38.4","volum_embassat":"89.56"}
+,{"dia":"2023-04-23T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"379.7","percentatge_volum_embassat":"6.9","volum_embassat":"11.39"}
+,{"dia":"2023-04-23T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"513.72","percentatge_volum_embassat":"30.4","volum_embassat":"7.42"}
+,{"dia":"2023-04-23T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.32","percentatge_volum_embassat":"7.2","volum_embassat":"0.88"}
+,{"dia":"2023-04-23T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.63","percentatge_volum_embassat":"8","volum_embassat":"0.43"}
+,{"dia":"2023-04-23T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.55","percentatge_volum_embassat":"70","volum_embassat":"2.62"}
+,{"dia":"2023-04-22T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"317.82","percentatge_volum_embassat":"38.5","volum_embassat":"89.79"}
+,{"dia":"2023-04-22T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"772.86","percentatge_volum_embassat":"24.3","volum_embassat":"19.4"}
+,{"dia":"2023-04-22T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.56","percentatge_volum_embassat":"70","volum_embassat":"2.62"}
+,{"dia":"2023-04-22T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"141.69","percentatge_volum_embassat":"29.2","volum_embassat":"17.85"}
+,{"dia":"2023-04-22T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.33","percentatge_volum_embassat":"7.2","volum_embassat":"0.88"}
+,{"dia":"2023-04-22T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"379.66","percentatge_volum_embassat":"6.9","volum_embassat":"11.32"}
+,{"dia":"2023-04-22T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"513.8","percentatge_volum_embassat":"30.7","volum_embassat":"7.47"}
+,{"dia":"2023-04-22T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.64","percentatge_volum_embassat":"8","volum_embassat":"0.43"}
+,{"dia":"2023-04-22T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.38","percentatge_volum_embassat":"25.5","volum_embassat":"27.93"}
+,{"dia":"2023-04-21T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"379.61","percentatge_volum_embassat":"6.8","volum_embassat":"11.25"}
+,{"dia":"2023-04-21T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.41","percentatge_volum_embassat":"25.6","volum_embassat":"27.98"}
+,{"dia":"2023-04-21T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"141.71","percentatge_volum_embassat":"29.3","volum_embassat":"17.88"}
+,{"dia":"2023-04-21T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.34","percentatge_volum_embassat":"7.2","volum_embassat":"0.88"}
+,{"dia":"2023-04-21T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"772.93","percentatge_volum_embassat":"24.3","volum_embassat":"19.47"}
+,{"dia":"2023-04-21T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.65","percentatge_volum_embassat":"8.1","volum_embassat":"0.43"}
+,{"dia":"2023-04-21T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"317.92","percentatge_volum_embassat":"38.7","volum_embassat":"90.08"}
+,{"dia":"2023-04-21T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"513.87","percentatge_volum_embassat":"30.9","volum_embassat":"7.53"}
+,{"dia":"2023-04-21T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.56","percentatge_volum_embassat":"70","volum_embassat":"2.62"}
+,{"dia":"2023-04-20T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"773.01","percentatge_volum_embassat":"24.4","volum_embassat":"19.55"}
+,{"dia":"2023-04-20T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"141.72","percentatge_volum_embassat":"29.3","volum_embassat":"17.89"}
+,{"dia":"2023-04-20T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.56","percentatge_volum_embassat":"70.1","volum_embassat":"2.62"}
+,{"dia":"2023-04-20T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.34","percentatge_volum_embassat":"7.3","volum_embassat":"0.89"}
+,{"dia":"2023-04-20T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"379.56","percentatge_volum_embassat":"6.8","volum_embassat":"11.17"}
+,{"dia":"2023-04-20T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"318.03","percentatge_volum_embassat":"38.8","volum_embassat":"90.42"}
+,{"dia":"2023-04-20T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.46","percentatge_volum_embassat":"25.6","volum_embassat":"28.04"}
+,{"dia":"2023-04-20T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"513.95","percentatge_volum_embassat":"31.1","volum_embassat":"7.58"}
+,{"dia":"2023-04-20T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.7","percentatge_volum_embassat":"8.1","volum_embassat":"0.43"}
+,{"dia":"2023-04-19T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"773.1","percentatge_volum_embassat":"24.5","volum_embassat":"19.63"}
+,{"dia":"2023-04-19T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"514.02","percentatge_volum_embassat":"31.3","volum_embassat":"7.63"}
+,{"dia":"2023-04-19T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.36","percentatge_volum_embassat":"7.3","volum_embassat":"0.89"}
+,{"dia":"2023-04-19T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"379.51","percentatge_volum_embassat":"6.7","volum_embassat":"11.1"}
+,{"dia":"2023-04-19T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.58","percentatge_volum_embassat":"70.4","volum_embassat":"2.63"}
+,{"dia":"2023-04-19T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"318.14","percentatge_volum_embassat":"38.9","volum_embassat":"90.75"}
+,{"dia":"2023-04-19T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.72","percentatge_volum_embassat":"8.2","volum_embassat":"0.43"}
+,{"dia":"2023-04-19T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"141.74","percentatge_volum_embassat":"29.3","volum_embassat":"17.92"}
+,{"dia":"2023-04-19T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.5","percentatge_volum_embassat":"25.7","volum_embassat":"28.1"}
+,{"dia":"2023-04-18T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.36","percentatge_volum_embassat":"7.3","volum_embassat":"0.89"}
+,{"dia":"2023-04-18T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.54","percentatge_volum_embassat":"25.7","volum_embassat":"28.15"}
+,{"dia":"2023-04-18T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.72","percentatge_volum_embassat":"8.2","volum_embassat":"0.44"}
+,{"dia":"2023-04-18T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"318.23","percentatge_volum_embassat":"39.1","volum_embassat":"91.03"}
+,{"dia":"2023-04-18T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"773.18","percentatge_volum_embassat":"24.6","volum_embassat":"19.71"}
+,{"dia":"2023-04-18T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"141.76","percentatge_volum_embassat":"29.4","volum_embassat":"17.95"}
+,{"dia":"2023-04-18T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.61","percentatge_volum_embassat":"70.8","volum_embassat":"2.65"}
+,{"dia":"2023-04-18T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"379.45","percentatge_volum_embassat":"6.7","volum_embassat":"11.01"}
+,{"dia":"2023-04-18T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"514.09","percentatge_volum_embassat":"31.5","volum_embassat":"7.68"}
+,{"dia":"2023-04-17T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.64","percentatge_volum_embassat":"71.2","volum_embassat":"2.66"}
+,{"dia":"2023-04-17T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.37","percentatge_volum_embassat":"7.3","volum_embassat":"0.89"}
+,{"dia":"2023-04-17T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.57","percentatge_volum_embassat":"25.8","volum_embassat":"28.19"}
+,{"dia":"2023-04-17T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"379.42","percentatge_volum_embassat":"6.6","volum_embassat":"10.96"}
+,{"dia":"2023-04-17T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"514.16","percentatge_volum_embassat":"31.7","volum_embassat":"7.73"}
+,{"dia":"2023-04-17T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.72","percentatge_volum_embassat":"8.2","volum_embassat":"0.44"}
+,{"dia":"2023-04-17T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"773.25","percentatge_volum_embassat":"24.7","volum_embassat":"19.78"}
+,{"dia":"2023-04-17T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"318.35","percentatge_volum_embassat":"39.2","volum_embassat":"91.38"}
+,{"dia":"2023-04-17T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"141.78","percentatge_volum_embassat":"29.4","volum_embassat":"17.99"}
+,{"dia":"2023-04-16T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"318.46","percentatge_volum_embassat":"39.3","volum_embassat":"91.68"}
+,{"dia":"2023-04-16T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"773.33","percentatge_volum_embassat":"24.8","volum_embassat":"19.85"}
+,{"dia":"2023-04-16T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.64","percentatge_volum_embassat":"71.2","volum_embassat":"2.66"}
+,{"dia":"2023-04-16T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.6","percentatge_volum_embassat":"25.8","volum_embassat":"28.23"}
+,{"dia":"2023-04-16T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.38","percentatge_volum_embassat":"7.3","volum_embassat":"0.89"}
+,{"dia":"2023-04-16T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"141.79","percentatge_volum_embassat":"29.5","volum_embassat":"18.01"}
+,{"dia":"2023-04-16T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"514.24","percentatge_volum_embassat":"31.9","volum_embassat":"7.79"}
+,{"dia":"2023-04-16T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"379.41","percentatge_volum_embassat":"6.6","volum_embassat":"10.94"}
+,{"dia":"2023-04-16T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.73","percentatge_volum_embassat":"8.2","volum_embassat":"0.44"}
+,{"dia":"2023-04-15T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"318.52","percentatge_volum_embassat":"39.4","volum_embassat":"91.87"}
+,{"dia":"2023-04-15T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.4","percentatge_volum_embassat":"7.3","volum_embassat":"0.89"}
+,{"dia":"2023-04-15T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"141.83","percentatge_volum_embassat":"29.6","volum_embassat":"18.06"}
+,{"dia":"2023-04-15T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.62","percentatge_volum_embassat":"25.8","volum_embassat":"28.26"}
+,{"dia":"2023-04-15T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.74","percentatge_volum_embassat":"8.2","volum_embassat":"0.44"}
+,{"dia":"2023-04-15T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"514.31","percentatge_volum_embassat":"32.2","volum_embassat":"7.84"}
+,{"dia":"2023-04-15T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.64","percentatge_volum_embassat":"71.2","volum_embassat":"2.66"}
+,{"dia":"2023-04-15T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"379.39","percentatge_volum_embassat":"6.6","volum_embassat":"10.91"}
+,{"dia":"2023-04-15T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"773.41","percentatge_volum_embassat":"24.9","volum_embassat":"19.93"}
+,{"dia":"2023-04-14T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.75","percentatge_volum_embassat":"8.2","volum_embassat":"0.44"}
+,{"dia":"2023-04-14T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"141.83","percentatge_volum_embassat":"29.6","volum_embassat":"18.07"}
+,{"dia":"2023-04-14T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.4","percentatge_volum_embassat":"7.3","volum_embassat":"0.9"}
+,{"dia":"2023-04-14T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"318.57","percentatge_volum_embassat":"39.5","volum_embassat":"92.04"}
+,{"dia":"2023-04-14T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"773.49","percentatge_volum_embassat":"25","volum_embassat":"20"}
+,{"dia":"2023-04-14T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.65","percentatge_volum_embassat":"71.4","volum_embassat":"2.67"}
+,{"dia":"2023-04-14T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"514.39","percentatge_volum_embassat":"32.4","volum_embassat":"7.9"}
+,{"dia":"2023-04-14T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.64","percentatge_volum_embassat":"25.9","volum_embassat":"28.29"}
+,{"dia":"2023-04-14T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"379.36","percentatge_volum_embassat":"6.6","volum_embassat":"10.88"}
+,{"dia":"2023-04-13T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.67","percentatge_volum_embassat":"25.9","volum_embassat":"28.32"}
+,{"dia":"2023-04-13T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"514.46","percentatge_volum_embassat":"32.6","volum_embassat":"7.95"}
+,{"dia":"2023-04-13T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"141.86","percentatge_volum_embassat":"29.7","volum_embassat":"18.12"}
+,{"dia":"2023-04-13T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"318.7","percentatge_volum_embassat":"39.7","volum_embassat":"92.44"}
+,{"dia":"2023-04-13T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.76","percentatge_volum_embassat":"8.3","volum_embassat":"0.44"}
+,{"dia":"2023-04-13T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.67","percentatge_volum_embassat":"71.7","volum_embassat":"2.68"}
+,{"dia":"2023-04-13T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"773.56","percentatge_volum_embassat":"25.1","volum_embassat":"20.08"}
+,{"dia":"2023-04-13T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"379.34","percentatge_volum_embassat":"6.6","volum_embassat":"10.85"}
+,{"dia":"2023-04-13T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.42","percentatge_volum_embassat":"7.3","volum_embassat":"0.9"}
+,{"dia":"2023-04-12T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.69","percentatge_volum_embassat":"71.9","volum_embassat":"2.69"}
+,{"dia":"2023-04-12T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"514.54","percentatge_volum_embassat":"32.9","volum_embassat":"8.01"}
+,{"dia":"2023-04-12T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"141.87","percentatge_volum_embassat":"29.7","volum_embassat":"18.13"}
+,{"dia":"2023-04-12T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"773.63","percentatge_volum_embassat":"25.2","volum_embassat":"20.15"}
+,{"dia":"2023-04-12T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"379.31","percentatge_volum_embassat":"6.5","volum_embassat":"10.81"}
+,{"dia":"2023-04-12T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"318.81","percentatge_volum_embassat":"39.8","volum_embassat":"92.71"}
+,{"dia":"2023-04-12T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.69","percentatge_volum_embassat":"25.9","volum_embassat":"28.36"}
+,{"dia":"2023-04-12T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.44","percentatge_volum_embassat":"7.4","volum_embassat":"0.9"}
+,{"dia":"2023-04-12T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.77","percentatge_volum_embassat":"8.3","volum_embassat":"0.44"}
+,{"dia":"2023-04-11T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.71","percentatge_volum_embassat":"25.9","volum_embassat":"28.38"}
+,{"dia":"2023-04-11T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.71","percentatge_volum_embassat":"72.2","volum_embassat":"2.7"}
+,{"dia":"2023-04-11T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.78","percentatge_volum_embassat":"8.3","volum_embassat":"0.44"}
+,{"dia":"2023-04-11T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"514.62","percentatge_volum_embassat":"33.1","volum_embassat":"8.07"}
+,{"dia":"2023-04-11T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.45","percentatge_volum_embassat":"7.4","volum_embassat":"0.9"}
+,{"dia":"2023-04-11T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"141.88","percentatge_volum_embassat":"29.7","volum_embassat":"18.14"}
+,{"dia":"2023-04-11T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"318.94","percentatge_volum_embassat":"40","volum_embassat":"93.09"}
+,{"dia":"2023-04-11T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"379.29","percentatge_volum_embassat":"6.5","volum_embassat":"10.77"}
+,{"dia":"2023-04-11T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"773.68","percentatge_volum_embassat":"25.2","volum_embassat":"20.19"}
+,{"dia":"2023-04-10T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.78","percentatge_volum_embassat":"8.3","volum_embassat":"0.44"}
+,{"dia":"2023-04-10T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"514.69","percentatge_volum_embassat":"33.3","volum_embassat":"8.12"}
+,{"dia":"2023-04-10T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"141.91","percentatge_volum_embassat":"29.8","volum_embassat":"18.19"}
+,{"dia":"2023-04-10T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"379.3","percentatge_volum_embassat":"6.5","volum_embassat":"10.78"}
+,{"dia":"2023-04-10T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.74","percentatge_volum_embassat":"72.6","volum_embassat":"2.71"}
+,{"dia":"2023-04-10T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"773.74","percentatge_volum_embassat":"25.3","volum_embassat":"20.25"}
+,{"dia":"2023-04-10T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.46","percentatge_volum_embassat":"7.4","volum_embassat":"0.9"}
+,{"dia":"2023-04-10T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"319","percentatge_volum_embassat":"40","volum_embassat":"93.28"}
+,{"dia":"2023-04-10T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.73","percentatge_volum_embassat":"26","volum_embassat":"28.41"}
+,{"dia":"2023-04-09T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"773.8","percentatge_volum_embassat":"25.4","volum_embassat":"20.31"}
+,{"dia":"2023-04-09T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.75","percentatge_volum_embassat":"26","volum_embassat":"28.43"}
+,{"dia":"2023-04-09T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"141.91","percentatge_volum_embassat":"29.8","volum_embassat":"18.2"}
+,{"dia":"2023-04-09T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"514.76","percentatge_volum_embassat":"33.5","volum_embassat":"8.17"}
+,{"dia":"2023-04-09T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"319.04","percentatge_volum_embassat":"40.1","volum_embassat":"93.4"}
+,{"dia":"2023-04-09T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"379.32","percentatge_volum_embassat":"6.5","volum_embassat":"10.81"}
+,{"dia":"2023-04-09T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.75","percentatge_volum_embassat":"72.7","volum_embassat":"2.72"}
+,{"dia":"2023-04-09T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.47","percentatge_volum_embassat":"7.4","volum_embassat":"0.9"}
+,{"dia":"2023-04-09T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.79","percentatge_volum_embassat":"8.3","volum_embassat":"0.44"}
+,{"dia":"2023-04-08T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.75","percentatge_volum_embassat":"72.8","volum_embassat":"2.72"}
+,{"dia":"2023-04-08T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"773.86","percentatge_volum_embassat":"25.5","volum_embassat":"20.37"}
+,{"dia":"2023-04-08T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"514.83","percentatge_volum_embassat":"33.8","volum_embassat":"8.23"}
+,{"dia":"2023-04-08T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.79","percentatge_volum_embassat":"8.3","volum_embassat":"0.44"}
+,{"dia":"2023-04-08T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"379.33","percentatge_volum_embassat":"6.5","volum_embassat":"10.82"}
+,{"dia":"2023-04-08T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"319.09","percentatge_volum_embassat":"40.2","volum_embassat":"93.58"}
+,{"dia":"2023-04-08T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.48","percentatge_volum_embassat":"7.4","volum_embassat":"0.91"}
+,{"dia":"2023-04-08T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.74","percentatge_volum_embassat":"26","volum_embassat":"28.43"}
+,{"dia":"2023-04-08T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"141.92","percentatge_volum_embassat":"29.8","volum_embassat":"18.21"}
+,{"dia":"2023-04-07T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"514.91","percentatge_volum_embassat":"34","volum_embassat":"8.28"}
+,{"dia":"2023-04-07T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.8","percentatge_volum_embassat":"8.3","volum_embassat":"0.44"}
+,{"dia":"2023-04-07T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"379.34","percentatge_volum_embassat":"6.6","volum_embassat":"10.84"}
+,{"dia":"2023-04-07T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.49","percentatge_volum_embassat":"7.4","volum_embassat":"0.91"}
+,{"dia":"2023-04-07T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.76","percentatge_volum_embassat":"72.8","volum_embassat":"2.72"}
+,{"dia":"2023-04-07T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"141.95","percentatge_volum_embassat":"29.9","volum_embassat":"18.25"}
+,{"dia":"2023-04-07T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.74","percentatge_volum_embassat":"26","volum_embassat":"28.43"}
+,{"dia":"2023-04-07T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"319.15","percentatge_volum_embassat":"40.2","volum_embassat":"93.73"}
+,{"dia":"2023-04-07T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"773.91","percentatge_volum_embassat":"25.5","volum_embassat":"20.42"}
+,{"dia":"2023-04-06T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"141.96","percentatge_volum_embassat":"29.9","volum_embassat":"18.27"}
+,{"dia":"2023-04-06T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"773.95","percentatge_volum_embassat":"25.6","volum_embassat":"20.46"}
+,{"dia":"2023-04-06T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.49","percentatge_volum_embassat":"7.4","volum_embassat":"0.91"}
+,{"dia":"2023-04-06T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"379.34","percentatge_volum_embassat":"6.6","volum_embassat":"10.85"}
+,{"dia":"2023-04-06T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"514.98","percentatge_volum_embassat":"34.2","volum_embassat":"8.34"}
+,{"dia":"2023-04-06T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.76","percentatge_volum_embassat":"72.8","volum_embassat":"2.72"}
+,{"dia":"2023-04-06T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.8","percentatge_volum_embassat":"8.3","volum_embassat":"0.44"}
+,{"dia":"2023-04-06T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"319.18","percentatge_volum_embassat":"40.3","volum_embassat":"93.86"}
+,{"dia":"2023-04-06T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.73","percentatge_volum_embassat":"26","volum_embassat":"28.42"}
+,{"dia":"2023-04-05T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"319.22","percentatge_volum_embassat":"40.3","volum_embassat":"93.99"}
+,{"dia":"2023-04-05T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"773.99","percentatge_volum_embassat":"25.6","volum_embassat":"20.49"}
+,{"dia":"2023-04-05T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.78","percentatge_volum_embassat":"73.2","volum_embassat":"2.74"}
+,{"dia":"2023-04-05T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"141.99","percentatge_volum_embassat":"30","volum_embassat":"18.32"}
+,{"dia":"2023-04-05T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"515.06","percentatge_volum_embassat":"34.4","volum_embassat":"8.39"}
+,{"dia":"2023-04-05T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.81","percentatge_volum_embassat":"8.3","volum_embassat":"0.44"}
+,{"dia":"2023-04-05T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.72","percentatge_volum_embassat":"26","volum_embassat":"28.4"}
+,{"dia":"2023-04-05T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"379.34","percentatge_volum_embassat":"6.6","volum_embassat":"10.85"}
+,{"dia":"2023-04-05T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.5","percentatge_volum_embassat":"7.4","volum_embassat":"0.91"}
+,{"dia":"2023-04-04T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"379.34","percentatge_volum_embassat":"6.6","volum_embassat":"10.84"}
+,{"dia":"2023-04-04T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.51","percentatge_volum_embassat":"7.5","volum_embassat":"0.91"}
+,{"dia":"2023-04-04T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"141.99","percentatge_volum_embassat":"30","volum_embassat":"18.32"}
+,{"dia":"2023-04-04T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.82","percentatge_volum_embassat":"8.4","volum_embassat":"0.44"}
+,{"dia":"2023-04-04T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.8","percentatge_volum_embassat":"73.5","volum_embassat":"2.75"}
+,{"dia":"2023-04-04T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.72","percentatge_volum_embassat":"26","volum_embassat":"28.4"}
+,{"dia":"2023-04-04T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.02","percentatge_volum_embassat":"25.7","volum_embassat":"20.52"}
+,{"dia":"2023-04-04T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"515.15","percentatge_volum_embassat":"34.7","volum_embassat":"8.47"}
+,{"dia":"2023-04-04T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"319.26","percentatge_volum_embassat":"40.4","volum_embassat":"94.1"}
+,{"dia":"2023-04-03T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"515.25","percentatge_volum_embassat":"35","volum_embassat":"8.54"}
+,{"dia":"2023-04-03T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"319.3","percentatge_volum_embassat":"40.4","volum_embassat":"94.2"}
+,{"dia":"2023-04-03T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.83","percentatge_volum_embassat":"73.8","volum_embassat":"2.76"}
+,{"dia":"2023-04-03T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.72","percentatge_volum_embassat":"25.9","volum_embassat":"28.4"}
+,{"dia":"2023-04-03T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"379.33","percentatge_volum_embassat":"6.6","volum_embassat":"10.83"}
+,{"dia":"2023-04-03T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.82","percentatge_volum_embassat":"8.4","volum_embassat":"0.45"}
+,{"dia":"2023-04-03T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.52","percentatge_volum_embassat":"7.5","volum_embassat":"0.91"}
+,{"dia":"2023-04-03T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142","percentatge_volum_embassat":"30","volum_embassat":"18.33"}
+,{"dia":"2023-04-03T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.04","percentatge_volum_embassat":"25.7","volum_embassat":"20.54"}
+,{"dia":"2023-04-02T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.01","percentatge_volum_embassat":"30","volum_embassat":"18.35"}
+,{"dia":"2023-04-02T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.06","percentatge_volum_embassat":"25.7","volum_embassat":"20.57"}
+,{"dia":"2023-04-02T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.83","percentatge_volum_embassat":"8.4","volum_embassat":"0.45"}
+,{"dia":"2023-04-02T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"319.33","percentatge_volum_embassat":"40.5","volum_embassat":"94.32"}
+,{"dia":"2023-04-02T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.53","percentatge_volum_embassat":"7.5","volum_embassat":"0.91"}
+,{"dia":"2023-04-02T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.83","percentatge_volum_embassat":"73.9","volum_embassat":"2.76"}
+,{"dia":"2023-04-02T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"379.33","percentatge_volum_embassat":"6.6","volum_embassat":"10.83"}
+,{"dia":"2023-04-02T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.72","percentatge_volum_embassat":"26","volum_embassat":"28.4"}
+,{"dia":"2023-04-02T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"515.34","percentatge_volum_embassat":"35.3","volum_embassat":"8.61"}
+,{"dia":"2023-04-01T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.03","percentatge_volum_embassat":"30.1","volum_embassat":"18.38"}
+,{"dia":"2023-04-01T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.84","percentatge_volum_embassat":"8.4","volum_embassat":"0.45"}
+,{"dia":"2023-04-01T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"515.44","percentatge_volum_embassat":"35.6","volum_embassat":"8.69"}
+,{"dia":"2023-04-01T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.85","percentatge_volum_embassat":"74.1","volum_embassat":"2.77"}
+,{"dia":"2023-04-01T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"379.33","percentatge_volum_embassat":"6.5","volum_embassat":"10.82"}
+,{"dia":"2023-04-01T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.74","percentatge_volum_embassat":"26","volum_embassat":"28.42"}
+,{"dia":"2023-04-01T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"319.37","percentatge_volum_embassat":"40.5","volum_embassat":"94.41"}
+,{"dia":"2023-04-01T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.54","percentatge_volum_embassat":"7.5","volum_embassat":"0.91"}
+,{"dia":"2023-04-01T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.08","percentatge_volum_embassat":"25.7","volum_embassat":"20.59"}
+,{"dia":"2023-03-31T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.85","percentatge_volum_embassat":"74.1","volum_embassat":"2.77"}
+,{"dia":"2023-03-31T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"319.42","percentatge_volum_embassat":"40.6","volum_embassat":"94.53"}
+,{"dia":"2023-03-31T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.75","percentatge_volum_embassat":"26","volum_embassat":"28.44"}
+,{"dia":"2023-03-31T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"515.54","percentatge_volum_embassat":"35.9","volum_embassat":"8.76"}
+,{"dia":"2023-03-31T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.11","percentatge_volum_embassat":"25.8","volum_embassat":"20.61"}
+,{"dia":"2023-03-31T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.85","percentatge_volum_embassat":"8.4","volum_embassat":"0.45"}
+,{"dia":"2023-03-31T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.55","percentatge_volum_embassat":"7.5","volum_embassat":"0.92"}
+,{"dia":"2023-03-31T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"379.33","percentatge_volum_embassat":"6.5","volum_embassat":"10.82"}
+,{"dia":"2023-03-31T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.03","percentatge_volum_embassat":"30.1","volum_embassat":"18.38"}
+,{"dia":"2023-03-30T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"515.63","percentatge_volum_embassat":"36.2","volum_embassat":"8.84"}
+,{"dia":"2023-03-30T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.76","percentatge_volum_embassat":"26","volum_embassat":"28.45"}
+,{"dia":"2023-03-30T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.85","percentatge_volum_embassat":"74.2","volum_embassat":"2.77"}
+,{"dia":"2023-03-30T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"379.39","percentatge_volum_embassat":"6.6","volum_embassat":"10.91"}
+,{"dia":"2023-03-30T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.85","percentatge_volum_embassat":"8.4","volum_embassat":"0.45"}
+,{"dia":"2023-03-30T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.13","percentatge_volum_embassat":"25.8","volum_embassat":"20.63"}
+,{"dia":"2023-03-30T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.04","percentatge_volum_embassat":"30.1","volum_embassat":"18.39"}
+,{"dia":"2023-03-30T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.57","percentatge_volum_embassat":"7.5","volum_embassat":"0.92"}
+,{"dia":"2023-03-30T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"319.45","percentatge_volum_embassat":"40.6","volum_embassat":"94.62"}
+,{"dia":"2023-03-29T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"379.45","percentatge_volum_embassat":"6.7","volum_embassat":"11.01"}
+,{"dia":"2023-03-29T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.77","percentatge_volum_embassat":"26","volum_embassat":"28.47"}
+,{"dia":"2023-03-29T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.85","percentatge_volum_embassat":"8.4","volum_embassat":"0.45"}
+,{"dia":"2023-03-29T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"319.46","percentatge_volum_embassat":"40.6","volum_embassat":"94.64"}
+,{"dia":"2023-03-29T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.04","percentatge_volum_embassat":"30.1","volum_embassat":"18.4"}
+,{"dia":"2023-03-29T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.86","percentatge_volum_embassat":"74.3","volum_embassat":"2.78"}
+,{"dia":"2023-03-29T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"515.72","percentatge_volum_embassat":"36.5","volum_embassat":"8.91"}
+,{"dia":"2023-03-29T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.58","percentatge_volum_embassat":"7.5","volum_embassat":"0.92"}
+,{"dia":"2023-03-29T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.15","percentatge_volum_embassat":"25.8","volum_embassat":"20.65"}
+,{"dia":"2023-03-28T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.87","percentatge_volum_embassat":"74.5","volum_embassat":"2.79"}
+,{"dia":"2023-03-28T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.78","percentatge_volum_embassat":"26","volum_embassat":"28.48"}
+,{"dia":"2023-03-28T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.18","percentatge_volum_embassat":"25.9","volum_embassat":"20.68"}
+,{"dia":"2023-03-28T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"319.47","percentatge_volum_embassat":"40.6","volum_embassat":"94.69"}
+,{"dia":"2023-03-28T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"379.51","percentatge_volum_embassat":"6.7","volum_embassat":"11.1"}
+,{"dia":"2023-03-28T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"515.81","percentatge_volum_embassat":"36.8","volum_embassat":"8.97"}
+,{"dia":"2023-03-28T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.58","percentatge_volum_embassat":"7.5","volum_embassat":"0.92"}
+,{"dia":"2023-03-28T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.07","percentatge_volum_embassat":"30.2","volum_embassat":"18.44"}
+,{"dia":"2023-03-28T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.86","percentatge_volum_embassat":"8.4","volum_embassat":"0.45"}
+,{"dia":"2023-03-27T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.88","percentatge_volum_embassat":"74.5","volum_embassat":"2.79"}
+,{"dia":"2023-03-27T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"379.55","percentatge_volum_embassat":"6.8","volum_embassat":"11.16"}
+,{"dia":"2023-03-27T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.08","percentatge_volum_embassat":"30.2","volum_embassat":"18.46"}
+,{"dia":"2023-03-27T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"319.5","percentatge_volum_embassat":"40.7","volum_embassat":"94.83"}
+,{"dia":"2023-03-27T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"515.88","percentatge_volum_embassat":"37","volum_embassat":"9.03"}
+,{"dia":"2023-03-27T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.22","percentatge_volum_embassat":"25.9","volum_embassat":"20.72"}
+,{"dia":"2023-03-27T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.87","percentatge_volum_embassat":"8.4","volum_embassat":"0.45"}
+,{"dia":"2023-03-27T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.59","percentatge_volum_embassat":"7.5","volum_embassat":"0.92"}
+,{"dia":"2023-03-27T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.78","percentatge_volum_embassat":"26","volum_embassat":"28.48"}
+,{"dia":"2023-03-26T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.8","percentatge_volum_embassat":"26","volum_embassat":"28.5"}
+,{"dia":"2023-03-26T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.61","percentatge_volum_embassat":"7.6","volum_embassat":"0.93"}
+,{"dia":"2023-03-26T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"379.6","percentatge_volum_embassat":"6.8","volum_embassat":"11.23"}
+,{"dia":"2023-03-26T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"319.53","percentatge_volum_embassat":"40.7","volum_embassat":"94.92"}
+,{"dia":"2023-03-26T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.88","percentatge_volum_embassat":"74.6","volum_embassat":"2.79"}
+,{"dia":"2023-03-26T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.89","percentatge_volum_embassat":"8.5","volum_embassat":"0.45"}
+,{"dia":"2023-03-26T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"515.94","percentatge_volum_embassat":"37.2","volum_embassat":"9.08"}
+,{"dia":"2023-03-26T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.24","percentatge_volum_embassat":"25.9","volum_embassat":"20.74"}
+,{"dia":"2023-03-26T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.08","percentatge_volum_embassat":"30.2","volum_embassat":"18.47"}
+,{"dia":"2023-03-24T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.92","percentatge_volum_embassat":"8.5","volum_embassat":"0.45"}
+,{"dia":"2023-03-24T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.81","percentatge_volum_embassat":"26.1","volum_embassat":"28.52"}
+,{"dia":"2023-03-24T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.11","percentatge_volum_embassat":"30.3","volum_embassat":"18.51"}
+,{"dia":"2023-03-24T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"319.56","percentatge_volum_embassat":"40.8","volum_embassat":"94.95"}
+,{"dia":"2023-03-24T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.63","percentatge_volum_embassat":"7.6","volum_embassat":"0.93"}
+,{"dia":"2023-03-24T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"516.07","percentatge_volum_embassat":"37.7","volum_embassat":"9.18"}
+,{"dia":"2023-03-24T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"379.72","percentatge_volum_embassat":"6.9","volum_embassat":"11.41"}
+,{"dia":"2023-03-24T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.89","percentatge_volum_embassat":"74.7","volum_embassat":"2.79"}
+,{"dia":"2023-03-24T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.27","percentatge_volum_embassat":"26","volum_embassat":"20.77"}
+,{"dia":"2023-03-23T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.82","percentatge_volum_embassat":"26.1","volum_embassat":"28.53"}
+,{"dia":"2023-03-23T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.64","percentatge_volum_embassat":"7.6","volum_embassat":"0.93"}
+,{"dia":"2023-03-23T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.93","percentatge_volum_embassat":"8.5","volum_embassat":"0.45"}
+,{"dia":"2023-03-23T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.9","percentatge_volum_embassat":"74.9","volum_embassat":"2.8"}
+,{"dia":"2023-03-23T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"319.37","percentatge_volum_embassat":"40.5","volum_embassat":"94.39"}
+,{"dia":"2023-03-23T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.12","percentatge_volum_embassat":"30.3","volum_embassat":"18.52"}
+,{"dia":"2023-03-23T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.29","percentatge_volum_embassat":"26","volum_embassat":"20.79"}
+,{"dia":"2023-03-23T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"516.13","percentatge_volum_embassat":"37.8","volum_embassat":"9.23"}
+,{"dia":"2023-03-23T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"380.1","percentatge_volum_embassat":"7.3","volum_embassat":"11.99"}
+,{"dia":"2023-03-22T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.92","percentatge_volum_embassat":"75.2","volum_embassat":"2.81"}
+,{"dia":"2023-03-22T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.3","percentatge_volum_embassat":"26","volum_embassat":"20.8"}
+,{"dia":"2023-03-22T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.65","percentatge_volum_embassat":"7.6","volum_embassat":"0.93"}
+,{"dia":"2023-03-22T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.94","percentatge_volum_embassat":"8.6","volum_embassat":"0.46"}
+,{"dia":"2023-03-22T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"516.17","percentatge_volum_embassat":"38","volum_embassat":"9.26"}
+,{"dia":"2023-03-22T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.82","percentatge_volum_embassat":"26.1","volum_embassat":"28.53"}
+,{"dia":"2023-03-22T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.12","percentatge_volum_embassat":"30.3","volum_embassat":"18.52"}
+,{"dia":"2023-03-22T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"319.07","percentatge_volum_embassat":"40.1","volum_embassat":"93.51"}
+,{"dia":"2023-03-22T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"380.72","percentatge_volum_embassat":"7.8","volum_embassat":"12.96"}
+,{"dia":"2023-03-21T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.95","percentatge_volum_embassat":"75.5","volum_embassat":"2.83"}
+,{"dia":"2023-03-21T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.82","percentatge_volum_embassat":"26.1","volum_embassat":"28.53"}
+,{"dia":"2023-03-21T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.65","percentatge_volum_embassat":"7.6","volum_embassat":"0.93"}
+,{"dia":"2023-03-21T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"318.87","percentatge_volum_embassat":"39.9","volum_embassat":"92.93"}
+,{"dia":"2023-03-21T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.14","percentatge_volum_embassat":"30.4","volum_embassat":"18.56"}
+,{"dia":"2023-03-21T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.31","percentatge_volum_embassat":"26","volum_embassat":"20.81"}
+,{"dia":"2023-03-21T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"381.35","percentatge_volum_embassat":"8.4","volum_embassat":"13.95"}
+,{"dia":"2023-03-21T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.95","percentatge_volum_embassat":"8.6","volum_embassat":"0.46"}
+,{"dia":"2023-03-21T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"516.2","percentatge_volum_embassat":"38.1","volum_embassat":"9.28"}
+,{"dia":"2023-03-20T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"516.21","percentatge_volum_embassat":"38.1","volum_embassat":"9.29"}
+,{"dia":"2023-03-20T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"318.75","percentatge_volum_embassat":"39.7","volum_embassat":"92.58"}
+,{"dia":"2023-03-20T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.66","percentatge_volum_embassat":"7.6","volum_embassat":"0.93"}
+,{"dia":"2023-03-20T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.15","percentatge_volum_embassat":"30.4","volum_embassat":"18.57"}
+,{"dia":"2023-03-20T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.97","percentatge_volum_embassat":"75.8","volum_embassat":"2.83"}
+,{"dia":"2023-03-20T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.32","percentatge_volum_embassat":"26","volum_embassat":"20.82"}
+,{"dia":"2023-03-20T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.8","percentatge_volum_embassat":"26","volum_embassat":"28.5"}
+,{"dia":"2023-03-20T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.96","percentatge_volum_embassat":"8.6","volum_embassat":"0.46"}
+,{"dia":"2023-03-20T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"381.71","percentatge_volum_embassat":"8.8","volum_embassat":"14.53"}
+,{"dia":"2023-03-19T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"381.83","percentatge_volum_embassat":"8.9","volum_embassat":"14.73"}
+,{"dia":"2023-03-19T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.97","percentatge_volum_embassat":"8.6","volum_embassat":"0.46"}
+,{"dia":"2023-03-19T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.33","percentatge_volum_embassat":"26","volum_embassat":"20.83"}
+,{"dia":"2023-03-19T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"516.22","percentatge_volum_embassat":"38.1","volum_embassat":"9.3"}
+,{"dia":"2023-03-19T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"318.68","percentatge_volum_embassat":"39.7","volum_embassat":"92.39"}
+,{"dia":"2023-03-19T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.78","percentatge_volum_embassat":"26","volum_embassat":"28.47"}
+,{"dia":"2023-03-19T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.15","percentatge_volum_embassat":"30.4","volum_embassat":"18.58"}
+,{"dia":"2023-03-19T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.97","percentatge_volum_embassat":"75.8","volum_embassat":"2.83"}
+,{"dia":"2023-03-19T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.67","percentatge_volum_embassat":"7.6","volum_embassat":"0.93"}
+,{"dia":"2023-03-18T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.67","percentatge_volum_embassat":"7.7","volum_embassat":"0.94"}
+,{"dia":"2023-03-18T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"198.98","percentatge_volum_embassat":"8.7","volum_embassat":"0.46"}
+,{"dia":"2023-03-18T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.16","percentatge_volum_embassat":"30.4","volum_embassat":"18.59"}
+,{"dia":"2023-03-18T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"381.94","percentatge_volum_embassat":"9","volum_embassat":"14.91"}
+,{"dia":"2023-03-18T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.33","percentatge_volum_embassat":"26","volum_embassat":"20.83"}
+,{"dia":"2023-03-18T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.76","percentatge_volum_embassat":"26","volum_embassat":"28.45"}
+,{"dia":"2023-03-18T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.97","percentatge_volum_embassat":"75.8","volum_embassat":"2.83"}
+,{"dia":"2023-03-18T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"318.64","percentatge_volum_embassat":"39.6","volum_embassat":"92.27"}
+,{"dia":"2023-03-18T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"516.23","percentatge_volum_embassat":"38.2","volum_embassat":"9.3"}
+,{"dia":"2023-03-17T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.34","percentatge_volum_embassat":"26","volum_embassat":"20.84"}
+,{"dia":"2023-03-17T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"318.61","percentatge_volum_embassat":"39.6","volum_embassat":"92.16"}
+,{"dia":"2023-03-17T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.73","percentatge_volum_embassat":"26","volum_embassat":"28.42"}
+,{"dia":"2023-03-17T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"199","percentatge_volum_embassat":"8.7","volum_embassat":"0.46"}
+,{"dia":"2023-03-17T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.68","percentatge_volum_embassat":"7.7","volum_embassat":"0.94"}
+,{"dia":"2023-03-17T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.97","percentatge_volum_embassat":"75.8","volum_embassat":"2.84"}
+,{"dia":"2023-03-17T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"516.24","percentatge_volum_embassat":"38.2","volum_embassat":"9.31"}
+,{"dia":"2023-03-17T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"382.1","percentatge_volum_embassat":"9.2","volum_embassat":"15.17"}
+,{"dia":"2023-03-17T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.16","percentatge_volum_embassat":"30.4","volum_embassat":"18.59"}
+,{"dia":"2023-03-16T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.18","percentatge_volum_embassat":"30.5","volum_embassat":"18.63"}
+,{"dia":"2023-03-16T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.69","percentatge_volum_embassat":"7.7","volum_embassat":"0.94"}
+,{"dia":"2023-03-16T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"516.25","percentatge_volum_embassat":"38.2","volum_embassat":"9.32"}
+,{"dia":"2023-03-16T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"318.55","percentatge_volum_embassat":"39.5","volum_embassat":"91.98"}
+,{"dia":"2023-03-16T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.34","percentatge_volum_embassat":"26.1","volum_embassat":"20.84"}
+,{"dia":"2023-03-16T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"199","percentatge_volum_embassat":"8.7","volum_embassat":"0.46"}
+,{"dia":"2023-03-16T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"382.28","percentatge_volum_embassat":"9.4","volum_embassat":"15.46"}
+,{"dia":"2023-03-16T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.97","percentatge_volum_embassat":"75.9","volum_embassat":"2.84"}
+,{"dia":"2023-03-16T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.71","percentatge_volum_embassat":"25.9","volum_embassat":"28.39"}
+,{"dia":"2023-03-15T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.69","percentatge_volum_embassat":"7.7","volum_embassat":"0.94"}
+,{"dia":"2023-03-15T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"382.43","percentatge_volum_embassat":"9.5","volum_embassat":"15.72"}
+,{"dia":"2023-03-15T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"516.25","percentatge_volum_embassat":"38.2","volum_embassat":"9.32"}
+,{"dia":"2023-03-15T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"199.02","percentatge_volum_embassat":"8.7","volum_embassat":"0.46"}
+,{"dia":"2023-03-15T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.19","percentatge_volum_embassat":"30.5","volum_embassat":"18.64"}
+,{"dia":"2023-03-15T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"318.5","percentatge_volum_embassat":"39.4","volum_embassat":"91.8"}
+,{"dia":"2023-03-15T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.34","percentatge_volum_embassat":"26.1","volum_embassat":"20.84"}
+,{"dia":"2023-03-15T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.98","percentatge_volum_embassat":"75.9","volum_embassat":"2.84"}
+,{"dia":"2023-03-15T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.69","percentatge_volum_embassat":"25.9","volum_embassat":"28.35"}
+,{"dia":"2023-03-13T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.2","percentatge_volum_embassat":"30.5","volum_embassat":"18.65"}
+,{"dia":"2023-03-13T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.98","percentatge_volum_embassat":"75.9","volum_embassat":"2.84"}
+,{"dia":"2023-03-13T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"199.04","percentatge_volum_embassat":"8.8","volum_embassat":"0.47"}
+,{"dia":"2023-03-13T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"382.67","percentatge_volum_embassat":"9.8","volum_embassat":"16.13"}
+,{"dia":"2023-03-13T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"318.38","percentatge_volum_embassat":"39.2","volum_embassat":"91.42"}
+,{"dia":"2023-03-13T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.61","percentatge_volum_embassat":"25.8","volum_embassat":"28.24"}
+,{"dia":"2023-03-13T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"516.3","percentatge_volum_embassat":"38.4","volum_embassat":"9.36"}
+,{"dia":"2023-03-13T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.71","percentatge_volum_embassat":"7.7","volum_embassat":"0.94"}
+,{"dia":"2023-03-13T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.33","percentatge_volum_embassat":"26","volum_embassat":"20.83"}
+,{"dia":"2023-03-12T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"318.27","percentatge_volum_embassat":"39.1","volum_embassat":"91.1"}
+,{"dia":"2023-03-12T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.97","percentatge_volum_embassat":"75.9","volum_embassat":"2.84"}
+,{"dia":"2023-03-12T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"516.33","percentatge_volum_embassat":"38.5","volum_embassat":"9.38"}
+,{"dia":"2023-03-12T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.21","percentatge_volum_embassat":"30.5","volum_embassat":"18.67"}
+,{"dia":"2023-03-12T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"199.05","percentatge_volum_embassat":"8.8","volum_embassat":"0.47"}
+,{"dia":"2023-03-12T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"382.91","percentatge_volum_embassat":"10","volum_embassat":"16.53"}
+,{"dia":"2023-03-12T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.72","percentatge_volum_embassat":"7.7","volum_embassat":"0.94"}
+,{"dia":"2023-03-12T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.59","percentatge_volum_embassat":"25.8","volum_embassat":"28.23"}
+,{"dia":"2023-03-12T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.32","percentatge_volum_embassat":"26","volum_embassat":"20.82"}
+,{"dia":"2023-03-11T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.23","percentatge_volum_embassat":"30.6","volum_embassat":"18.7"}
+,{"dia":"2023-03-11T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.72","percentatge_volum_embassat":"7.7","volum_embassat":"0.94"}
+,{"dia":"2023-03-11T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.61","percentatge_volum_embassat":"25.8","volum_embassat":"28.24"}
+,{"dia":"2023-03-11T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"383.17","percentatge_volum_embassat":"10.3","volum_embassat":"16.98"}
+,{"dia":"2023-03-11T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"318.14","percentatge_volum_embassat":"38.9","volum_embassat":"90.7"}
+,{"dia":"2023-03-11T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"516.36","percentatge_volum_embassat":"38.6","volum_embassat":"9.41"}
+,{"dia":"2023-03-11T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"199.06","percentatge_volum_embassat":"8.8","volum_embassat":"0.47"}
+,{"dia":"2023-03-11T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.97","percentatge_volum_embassat":"75.9","volum_embassat":"2.84"}
+,{"dia":"2023-03-11T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.3","percentatge_volum_embassat":"26","volum_embassat":"20.81"}
+,{"dia":"2023-03-10T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"318.02","percentatge_volum_embassat":"38.8","volum_embassat":"90.37"}
+,{"dia":"2023-03-10T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.72","percentatge_volum_embassat":"7.7","volum_embassat":"0.94"}
+,{"dia":"2023-03-10T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.23","percentatge_volum_embassat":"30.6","volum_embassat":"18.7"}
+,{"dia":"2023-03-10T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.97","percentatge_volum_embassat":"75.9","volum_embassat":"2.84"}
+,{"dia":"2023-03-10T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"516.39","percentatge_volum_embassat":"38.7","volum_embassat":"9.44"}
+,{"dia":"2023-03-10T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"199.07","percentatge_volum_embassat":"8.8","volum_embassat":"0.47"}
+,{"dia":"2023-03-10T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.62","percentatge_volum_embassat":"25.8","volum_embassat":"28.27"}
+,{"dia":"2023-03-10T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.3","percentatge_volum_embassat":"26","volum_embassat":"20.8"}
+,{"dia":"2023-03-10T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"383.44","percentatge_volum_embassat":"10.6","volum_embassat":"17.46"}
+,{"dia":"2023-03-09T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"516.43","percentatge_volum_embassat":"38.8","volum_embassat":"9.47"}
+,{"dia":"2023-03-09T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"317.85","percentatge_volum_embassat":"38.7","volum_embassat":"90.07"}
+,{"dia":"2023-03-09T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.97","percentatge_volum_embassat":"75.8","volum_embassat":"2.84"}
+,{"dia":"2023-03-09T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"199.07","percentatge_volum_embassat":"8.8","volum_embassat":"0.47"}
+,{"dia":"2023-03-09T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.73","percentatge_volum_embassat":"7.7","volum_embassat":"0.94"}
+,{"dia":"2023-03-09T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"383.72","percentatge_volum_embassat":"10.9","volum_embassat":"17.96"}
+,{"dia":"2023-03-09T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.29","percentatge_volum_embassat":"26","volum_embassat":"20.79"}
+,{"dia":"2023-03-09T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.24","percentatge_volum_embassat":"30.6","volum_embassat":"18.71"}
+,{"dia":"2023-03-09T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.67","percentatge_volum_embassat":"25.9","volum_embassat":"28.32"}
+,{"dia":"2023-03-08T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.74","percentatge_volum_embassat":"7.7","volum_embassat":"0.95"}
+,{"dia":"2023-03-08T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"383.98","percentatge_volum_embassat":"11.1","volum_embassat":"18.41"}
+,{"dia":"2023-03-08T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"199.08","percentatge_volum_embassat":"8.8","volum_embassat":"0.47"}
+,{"dia":"2023-03-08T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"516.49","percentatge_volum_embassat":"39","volum_embassat":"9.51"}
+,{"dia":"2023-03-08T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.71","percentatge_volum_embassat":"25.9","volum_embassat":"28.38"}
+,{"dia":"2023-03-08T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"317.67","percentatge_volum_embassat":"38.6","volum_embassat":"89.84"}
+,{"dia":"2023-03-08T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.96","percentatge_volum_embassat":"75.8","volum_embassat":"2.83"}
+,{"dia":"2023-03-08T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.27","percentatge_volum_embassat":"30.7","volum_embassat":"18.76"}
+,{"dia":"2023-03-08T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.3","percentatge_volum_embassat":"26","volum_embassat":"20.8"}
+,{"dia":"2023-03-07T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.33","percentatge_volum_embassat":"26","volum_embassat":"20.83"}
+,{"dia":"2023-03-07T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"384.25","percentatge_volum_embassat":"11.4","volum_embassat":"18.91"}
+,{"dia":"2023-03-07T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.76","percentatge_volum_embassat":"26","volum_embassat":"28.45"}
+,{"dia":"2023-03-07T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"516.54","percentatge_volum_embassat":"39.2","volum_embassat":"9.55"}
+,{"dia":"2023-03-07T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.99","percentatge_volum_embassat":"76.1","volum_embassat":"2.85"}
+,{"dia":"2023-03-07T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"317.69","percentatge_volum_embassat":"38.4","volum_embassat":"89.53"}
+,{"dia":"2023-03-07T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"199.08","percentatge_volum_embassat":"8.9","volum_embassat":"0.47"}
+,{"dia":"2023-03-07T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.27","percentatge_volum_embassat":"30.7","volum_embassat":"18.76"}
+,{"dia":"2023-03-07T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.74","percentatge_volum_embassat":"7.7","volum_embassat":"0.95"}
+,{"dia":"2023-03-06T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"317.54","percentatge_volum_embassat":"38.2","volum_embassat":"89.09"}
+,{"dia":"2023-03-06T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"384.61","percentatge_volum_embassat":"11.8","volum_embassat":"19.56"}
+,{"dia":"2023-03-06T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.28","percentatge_volum_embassat":"30.7","volum_embassat":"18.78"}
+,{"dia":"2023-03-06T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"516.6","percentatge_volum_embassat":"39.4","volum_embassat":"9.6"}
+,{"dia":"2023-03-06T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.35","percentatge_volum_embassat":"26.1","volum_embassat":"20.85"}
+,{"dia":"2023-03-06T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.81","percentatge_volum_embassat":"26.1","volum_embassat":"28.61"}
+,{"dia":"2023-03-06T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.76","percentatge_volum_embassat":"7.8","volum_embassat":"0.95"}
+,{"dia":"2023-03-06T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"99.01","percentatge_volum_embassat":"76.4","volum_embassat":"2.86"}
+,{"dia":"2023-03-06T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"199.09","percentatge_volum_embassat":"8.9","volum_embassat":"0.47"}
+,{"dia":"2023-03-05T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"516.65","percentatge_volum_embassat":"39.6","volum_embassat":"9.65"}
+,{"dia":"2023-03-05T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"317.37","percentatge_volum_embassat":"38","volum_embassat":"88.58"}
+,{"dia":"2023-03-05T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.37","percentatge_volum_embassat":"26.1","volum_embassat":"20.87"}
+,{"dia":"2023-03-05T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.76","percentatge_volum_embassat":"7.8","volum_embassat":"0.95"}
+,{"dia":"2023-03-05T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"385.03","percentatge_volum_embassat":"12.3","volum_embassat":"20.33"}
+,{"dia":"2023-03-05T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"99.01","percentatge_volum_embassat":"76.4","volum_embassat":"2.86"}
+,{"dia":"2023-03-05T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.28","percentatge_volum_embassat":"30.7","volum_embassat":"18.78"}
+,{"dia":"2023-03-05T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.85","percentatge_volum_embassat":"26.1","volum_embassat":"28.58"}
+,{"dia":"2023-03-05T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"199.09","percentatge_volum_embassat":"8.9","volum_embassat":"0.47"}
+,{"dia":"2023-03-04T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"385.43","percentatge_volum_embassat":"12.8","volum_embassat":"21.09"}
+,{"dia":"2023-03-04T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"99.01","percentatge_volum_embassat":"76.4","volum_embassat":"2.86"}
+,{"dia":"2023-03-04T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.9","percentatge_volum_embassat":"26.2","volum_embassat":"28.64"}
+,{"dia":"2023-03-04T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.39","percentatge_volum_embassat":"26.1","volum_embassat":"20.9"}
+,{"dia":"2023-03-04T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"199.1","percentatge_volum_embassat":"8.9","volum_embassat":"0.47"}
+,{"dia":"2023-03-04T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.76","percentatge_volum_embassat":"7.8","volum_embassat":"0.95"}
+,{"dia":"2023-03-04T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"317.15","percentatge_volum_embassat":"37.8","volum_embassat":"87.96"}
+,{"dia":"2023-03-04T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"516.71","percentatge_volum_embassat":"39.8","volum_embassat":"9.69"}
+,{"dia":"2023-03-04T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.3","percentatge_volum_embassat":"30.8","volum_embassat":"18.81"}
+,{"dia":"2023-03-03T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"385.83","percentatge_volum_embassat":"13.2","volum_embassat":"21.86"}
+,{"dia":"2023-03-03T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"316.91","percentatge_volum_embassat":"37.5","volum_embassat":"87.27"}
+,{"dia":"2023-03-03T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"199.11","percentatge_volum_embassat":"8.9","volum_embassat":"0.47"}
+,{"dia":"2023-03-03T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.77","percentatge_volum_embassat":"7.8","volum_embassat":"0.95"}
+,{"dia":"2023-03-03T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.41","percentatge_volum_embassat":"26.1","volum_embassat":"20.92"}
+,{"dia":"2023-03-03T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"99.01","percentatge_volum_embassat":"76.4","volum_embassat":"2.86"}
+,{"dia":"2023-03-03T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"516.77","percentatge_volum_embassat":"39.9","volum_embassat":"9.74"}
+,{"dia":"2023-03-03T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.31","percentatge_volum_embassat":"30.8","volum_embassat":"18.82"}
+,{"dia":"2023-03-03T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.95","percentatge_volum_embassat":"26.2","volum_embassat":"28.7"}
+,{"dia":"2023-03-02T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"99.01","percentatge_volum_embassat":"76.3","volum_embassat":"2.86"}
+,{"dia":"2023-03-02T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"386.22","percentatge_volum_embassat":"13.7","volum_embassat":"22.6"}
+,{"dia":"2023-03-02T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.32","percentatge_volum_embassat":"30.8","volum_embassat":"18.85"}
+,{"dia":"2023-03-02T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"199.12","percentatge_volum_embassat":"8.9","volum_embassat":"0.47"}
+,{"dia":"2023-03-02T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"516.82","percentatge_volum_embassat":"40.1","volum_embassat":"9.78"}
+,{"dia":"2023-03-02T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.99","percentatge_volum_embassat":"26.3","volum_embassat":"28.76"}
+,{"dia":"2023-03-02T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"316.67","percentatge_volum_embassat":"37.2","volum_embassat":"86.61"}
+,{"dia":"2023-03-02T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.43","percentatge_volum_embassat":"26.2","volum_embassat":"20.93"}
+,{"dia":"2023-03-02T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.77","percentatge_volum_embassat":"7.8","volum_embassat":"0.95"}
+,{"dia":"2023-03-01T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.78","percentatge_volum_embassat":"7.8","volum_embassat":"0.95"}
+,{"dia":"2023-03-01T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.44","percentatge_volum_embassat":"26.2","volum_embassat":"20.95"}
+,{"dia":"2023-03-01T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"199.16","percentatge_volum_embassat":"9","volum_embassat":"0.48"}
+,{"dia":"2023-03-01T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.32","percentatge_volum_embassat":"30.8","volum_embassat":"18.85"}
+,{"dia":"2023-03-01T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"516.87","percentatge_volum_embassat":"40.3","volum_embassat":"9.82"}
+,{"dia":"2023-03-01T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"386.62","percentatge_volum_embassat":"14.1","volum_embassat":"23.38"}
+,{"dia":"2023-03-01T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"99","percentatge_volum_embassat":"76.3","volum_embassat":"2.85"}
+,{"dia":"2023-03-01T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"597.03","percentatge_volum_embassat":"26.3","volum_embassat":"28.82"}
+,{"dia":"2023-03-01T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"316.54","percentatge_volum_embassat":"37","volum_embassat":"86.24"}
+,{"dia":"2023-02-28T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"316.38","percentatge_volum_embassat":"36.8","volum_embassat":"85.76"}
+,{"dia":"2023-02-28T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"516.87","percentatge_volum_embassat":"40.3","volum_embassat":"9.82"}
+,{"dia":"2023-02-28T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.33","percentatge_volum_embassat":"30.9","volum_embassat":"18.86"}
+,{"dia":"2023-02-28T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"199.19","percentatge_volum_embassat":"9.1","volum_embassat":"0.48"}
+,{"dia":"2023-02-28T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.78","percentatge_volum_embassat":"7.8","volum_embassat":"0.95"}
+,{"dia":"2023-02-28T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"99","percentatge_volum_embassat":"76.3","volum_embassat":"2.85"}
+,{"dia":"2023-02-28T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"597.05","percentatge_volum_embassat":"26.4","volum_embassat":"28.85"}
+,{"dia":"2023-02-28T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.46","percentatge_volum_embassat":"26.2","volum_embassat":"20.96"}
+,{"dia":"2023-02-28T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"387.01","percentatge_volum_embassat":"14.6","volum_embassat":"24.16"}
+,{"dia":"2023-02-27T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"597.03","percentatge_volum_embassat":"26.3","volum_embassat":"28.82"}
+,{"dia":"2023-02-27T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"516.86","percentatge_volum_embassat":"40.3","volum_embassat":"9.81"}
+,{"dia":"2023-02-27T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.78","percentatge_volum_embassat":"7.8","volum_embassat":"0.95"}
+,{"dia":"2023-02-27T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.47","percentatge_volum_embassat":"26.2","volum_embassat":"20.97"}
+,{"dia":"2023-02-27T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"316.23","percentatge_volum_embassat":"36.7","volum_embassat":"85.42"}
+,{"dia":"2023-02-27T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"387.32","percentatge_volum_embassat":"15","volum_embassat":"24.77"}
+,{"dia":"2023-02-27T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.32","percentatge_volum_embassat":"30.8","volum_embassat":"18.85"}
+,{"dia":"2023-02-27T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"199.21","percentatge_volum_embassat":"9.1","volum_embassat":"0.48"}
+,{"dia":"2023-02-27T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"99","percentatge_volum_embassat":"76.3","volum_embassat":"2.85"}
+,{"dia":"2023-02-26T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.47","percentatge_volum_embassat":"26.2","volum_embassat":"20.97"}
+,{"dia":"2023-02-26T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"387.51","percentatge_volum_embassat":"15.2","volum_embassat":"25.15"}
+,{"dia":"2023-02-26T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"597.01","percentatge_volum_embassat":"26.3","volum_embassat":"28.79"}
+,{"dia":"2023-02-26T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.98","percentatge_volum_embassat":"76","volum_embassat":"2.84"}
+,{"dia":"2023-02-26T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"516.86","percentatge_volum_embassat":"40.2","volum_embassat":"9.81"}
+,{"dia":"2023-02-26T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"199.23","percentatge_volum_embassat":"9.2","volum_embassat":"0.49"}
+,{"dia":"2023-02-26T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"316.12","percentatge_volum_embassat":"36.5","volum_embassat":"85.05"}
+,{"dia":"2023-02-26T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.79","percentatge_volum_embassat":"7.8","volum_embassat":"0.95"}
+,{"dia":"2023-02-26T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.33","percentatge_volum_embassat":"30.9","volum_embassat":"18.87"}
+,{"dia":"2023-02-25T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"387.65","percentatge_volum_embassat":"15.4","volum_embassat":"25.43"}
+,{"dia":"2023-02-25T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"316","percentatge_volum_embassat":"36.4","volum_embassat":"84.7"}
+,{"dia":"2023-02-25T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.98","percentatge_volum_embassat":"76","volum_embassat":"2.84"}
+,{"dia":"2023-02-25T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.47","percentatge_volum_embassat":"26.2","volum_embassat":"20.97"}
+,{"dia":"2023-02-25T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.79","percentatge_volum_embassat":"7.8","volum_embassat":"0.95"}
+,{"dia":"2023-02-25T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"516.85","percentatge_volum_embassat":"40.2","volum_embassat":"9.8"}
+,{"dia":"2023-02-25T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.33","percentatge_volum_embassat":"30.9","volum_embassat":"18.86"}
+,{"dia":"2023-02-25T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"199.26","percentatge_volum_embassat":"9.2","volum_embassat":"0.49"}
+,{"dia":"2023-02-25T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.97","percentatge_volum_embassat":"26.3","volum_embassat":"28.73"}
+,{"dia":"2023-02-24T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.79","percentatge_volum_embassat":"7.8","volum_embassat":"0.95"}
+,{"dia":"2023-02-24T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"516.84","percentatge_volum_embassat":"40.2","volum_embassat":"9.8"}
+,{"dia":"2023-02-24T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"199.29","percentatge_volum_embassat":"9.3","volum_embassat":"0.49"}
+,{"dia":"2023-02-24T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"387.74","percentatge_volum_embassat":"15.5","volum_embassat":"25.61"}
+,{"dia":"2023-02-24T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"315.89","percentatge_volum_embassat":"36.2","volum_embassat":"84.42"}
+,{"dia":"2023-02-24T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.32","percentatge_volum_embassat":"30.8","volum_embassat":"18.85"}
+,{"dia":"2023-02-24T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.92","percentatge_volum_embassat":"75.1","volum_embassat":"2.81"}
+,{"dia":"2023-02-24T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.88","percentatge_volum_embassat":"26.2","volum_embassat":"28.62"}
+,{"dia":"2023-02-24T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.45","percentatge_volum_embassat":"26.2","volum_embassat":"20.96"}
+,{"dia":"2023-02-23T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"315.8","percentatge_volum_embassat":"36.1","volum_embassat":"84.1"}
+,{"dia":"2023-02-23T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.83","percentatge_volum_embassat":"26.1","volum_embassat":"28.55"}
+,{"dia":"2023-02-23T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.32","percentatge_volum_embassat":"30.8","volum_embassat":"18.85"}
+,{"dia":"2023-02-23T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.42","percentatge_volum_embassat":"26.2","volum_embassat":"20.92"}
+,{"dia":"2023-02-23T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"387.91","percentatge_volum_embassat":"15.7","volum_embassat":"25.97"}
+,{"dia":"2023-02-23T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.71","percentatge_volum_embassat":"72.1","volum_embassat":"2.7"}
+,{"dia":"2023-02-23T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"516.85","percentatge_volum_embassat":"40.2","volum_embassat":"9.81"}
+,{"dia":"2023-02-23T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.57","percentatge_volum_embassat":"7.5","volum_embassat":"0.92"}
+,{"dia":"2023-02-23T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"199.3","percentatge_volum_embassat":"9.3","volum_embassat":"0.5"}
+,{"dia":"2023-02-22T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"199.34","percentatge_volum_embassat":"9.4","volum_embassat":"0.5"}
+,{"dia":"2023-02-22T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.32","percentatge_volum_embassat":"30.8","volum_embassat":"18.84"}
+,{"dia":"2023-02-22T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.73","percentatge_volum_embassat":"72.4","volum_embassat":"2.71"}
+,{"dia":"2023-02-22T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"452.68","percentatge_volum_embassat":"4.2","volum_embassat":"0.52"}
+,{"dia":"2023-02-22T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"315.74","percentatge_volum_embassat":"36","volum_embassat":"83.93"}
+,{"dia":"2023-02-22T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"388.12","percentatge_volum_embassat":"16","volum_embassat":"26.39"}
+,{"dia":"2023-02-22T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.44","percentatge_volum_embassat":"26.2","volum_embassat":"20.94"}
+,{"dia":"2023-02-22T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"516.89","percentatge_volum_embassat":"40.3","volum_embassat":"9.84"}
+,{"dia":"2023-02-22T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.87","percentatge_volum_embassat":"26.1","volum_embassat":"28.6"}
+,{"dia":"2023-02-21T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.48","percentatge_volum_embassat":"7.5","volum_embassat":"0.91"}
+,{"dia":"2023-02-21T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"388.31","percentatge_volum_embassat":"16.2","volum_embassat":"26.78"}
+,{"dia":"2023-02-21T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.74","percentatge_volum_embassat":"72.6","volum_embassat":"2.71"}
+,{"dia":"2023-02-21T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.32","percentatge_volum_embassat":"30.8","volum_embassat":"18.84"}
+,{"dia":"2023-02-21T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.46","percentatge_volum_embassat":"26.2","volum_embassat":"20.96"}
+,{"dia":"2023-02-21T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"199.37","percentatge_volum_embassat":"9.4","volum_embassat":"0.5"}
+,{"dia":"2023-02-21T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"315.74","percentatge_volum_embassat":"36","volum_embassat":"83.91"}
+,{"dia":"2023-02-21T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"516.92","percentatge_volum_embassat":"40.4","volum_embassat":"9.86"}
+,{"dia":"2023-02-21T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.9","percentatge_volum_embassat":"26.2","volum_embassat":"28.64"}
+,{"dia":"2023-02-20T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.49","percentatge_volum_embassat":"26.2","volum_embassat":"20.99"}
+,{"dia":"2023-02-20T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.32","percentatge_volum_embassat":"30.8","volum_embassat":"18.85"}
+,{"dia":"2023-02-20T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"315.7","percentatge_volum_embassat":"36","volum_embassat":"83.81"}
+,{"dia":"2023-02-20T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.81","percentatge_volum_embassat":"7.8","volum_embassat":"0.96"}
+,{"dia":"2023-02-20T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"516.95","percentatge_volum_embassat":"40.6","volum_embassat":"9.89"}
+,{"dia":"2023-02-20T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"199.4","percentatge_volum_embassat":"9.5","volum_embassat":"0.51"}
+,{"dia":"2023-02-20T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"596.94","percentatge_volum_embassat":"26.2","volum_embassat":"28.69"}
+,{"dia":"2023-02-20T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"388.49","percentatge_volum_embassat":"16.4","volum_embassat":"27.15"}
+,{"dia":"2023-02-20T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.74","percentatge_volum_embassat":"72.5","volum_embassat":"2.71"}
+,{"dia":"2023-02-16T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"597.13","percentatge_volum_embassat":"26.5","volum_embassat":"28.96"}
+,{"dia":"2023-02-16T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.62","percentatge_volum_embassat":"26.4","volum_embassat":"21.12"}
+,{"dia":"2023-02-16T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"517.19","percentatge_volum_embassat":"41.4","volum_embassat":"10.09"}
+,{"dia":"2023-02-16T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"315.55","percentatge_volum_embassat":"35.8","volum_embassat":"83.45"}
+,{"dia":"2023-02-16T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.35","percentatge_volum_embassat":"30.9","volum_embassat":"18.89"}
+,{"dia":"2023-02-16T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"389.07","percentatge_volum_embassat":"17.2","volum_embassat":"28.38"}
+,{"dia":"2023-02-16T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"199.52","percentatge_volum_embassat":"9.8","volum_embassat":"0.52"}
+,{"dia":"2023-02-16T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.73","percentatge_volum_embassat":"72.5","volum_embassat":"2.71"}
+,{"dia":"2023-02-16T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.79","percentatge_volum_embassat":"7.8","volum_embassat":"0.95"}
+,{"dia":"2023-02-15T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.65","percentatge_volum_embassat":"26.4","volum_embassat":"21.15"}
+,{"dia":"2023-02-15T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.79","percentatge_volum_embassat":"7.8","volum_embassat":"0.95"}
+,{"dia":"2023-02-15T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"517.27","percentatge_volum_embassat":"41.7","volum_embassat":"10.15"}
+,{"dia":"2023-02-15T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"597.2","percentatge_volum_embassat":"26.6","volum_embassat":"29.06"}
+,{"dia":"2023-02-15T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"389.19","percentatge_volum_embassat":"17.3","volum_embassat":"28.62"}
+,{"dia":"2023-02-15T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"199.55","percentatge_volum_embassat":"9.8","volum_embassat":"0.52"}
+,{"dia":"2023-02-15T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.35","percentatge_volum_embassat":"30.9","volum_embassat":"18.89"}
+,{"dia":"2023-02-15T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.74","percentatge_volum_embassat":"72.6","volum_embassat":"2.72"}
+,{"dia":"2023-02-15T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"315.58","percentatge_volum_embassat":"35.8","volum_embassat":"83.51"}
+,{"dia":"2023-02-14T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.76","percentatge_volum_embassat":"72.9","volum_embassat":"2.73"}
+,{"dia":"2023-02-14T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"315.59","percentatge_volum_embassat":"35.9","volum_embassat":"83.54"}
+,{"dia":"2023-02-14T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"597.27","percentatge_volum_embassat":"26.6","volum_embassat":"29.15"}
+,{"dia":"2023-02-14T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.35","percentatge_volum_embassat":"30.9","volum_embassat":"18.89"}
+,{"dia":"2023-02-14T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"389.29","percentatge_volum_embassat":"17.4","volum_embassat":"28.84"}
+,{"dia":"2023-02-14T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.79","percentatge_volum_embassat":"7.8","volum_embassat":"0.95"}
+,{"dia":"2023-02-14T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"517.35","percentatge_volum_embassat":"41.9","volum_embassat":"10.22"}
+,{"dia":"2023-02-14T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"199.58","percentatge_volum_embassat":"9.9","volum_embassat":"0.53"}
+,{"dia":"2023-02-14T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.67","percentatge_volum_embassat":"26.5","volum_embassat":"21.17"}
+,{"dia":"2023-02-13T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"199.61","percentatge_volum_embassat":"9.9","volum_embassat":"0.53"}
+,{"dia":"2023-02-13T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.35","percentatge_volum_embassat":"30.9","volum_embassat":"18.89"}
+,{"dia":"2023-02-13T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"389.39","percentatge_volum_embassat":"17.6","volum_embassat":"29.05"}
+,{"dia":"2023-02-13T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"517.44","percentatge_volum_embassat":"42.2","volum_embassat":"10.29"}
+,{"dia":"2023-02-13T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.78","percentatge_volum_embassat":"73.1","volum_embassat":"2.73"}
+,{"dia":"2023-02-13T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"315.6","percentatge_volum_embassat":"35.9","volum_embassat":"83.61"}
+,{"dia":"2023-02-13T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.79","percentatge_volum_embassat":"7.8","volum_embassat":"0.95"}
+,{"dia":"2023-02-13T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.7","percentatge_volum_embassat":"26.5","volum_embassat":"21.2"}
+,{"dia":"2023-02-13T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"597.36","percentatge_volum_embassat":"26.8","volum_embassat":"29.27"}
+,{"dia":"2023-02-12T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.78","percentatge_volum_embassat":"7.8","volum_embassat":"0.95"}
+,{"dia":"2023-02-12T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"517.51","percentatge_volum_embassat":"42.5","volum_embassat":"10.35"}
+,{"dia":"2023-02-12T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.77","percentatge_volum_embassat":"73.1","volum_embassat":"2.73"}
+,{"dia":"2023-02-12T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.72","percentatge_volum_embassat":"26.5","volum_embassat":"21.23"}
+,{"dia":"2023-02-12T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"597.42","percentatge_volum_embassat":"26.8","volum_embassat":"29.36"}
+,{"dia":"2023-02-12T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"199.64","percentatge_volum_embassat":"10","volum_embassat":"0.53"}
+,{"dia":"2023-02-12T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"315.64","percentatge_volum_embassat":"35.9","volum_embassat":"83.71"}
+,{"dia":"2023-02-12T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.35","percentatge_volum_embassat":"30.9","volum_embassat":"18.89"}
+,{"dia":"2023-02-12T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"389.47","percentatge_volum_embassat":"17.7","volum_embassat":"29.23"}
+,{"dia":"2023-02-11T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"199.66","percentatge_volum_embassat":"10.1","volum_embassat":"0.53"}
+,{"dia":"2023-02-11T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"389.55","percentatge_volum_embassat":"17.8","volum_embassat":"29.4"}
+,{"dia":"2023-02-11T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"315.65","percentatge_volum_embassat":"35.9","volum_embassat":"83.73"}
+,{"dia":"2023-02-11T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.75","percentatge_volum_embassat":"26.6","volum_embassat":"21.25"}
+,{"dia":"2023-02-11T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"597.48","percentatge_volum_embassat":"26.9","volum_embassat":"29.44"}
+,{"dia":"2023-02-11T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"517.57","percentatge_volum_embassat":"42.7","volum_embassat":"10.4"}
+,{"dia":"2023-02-11T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.77","percentatge_volum_embassat":"73","volum_embassat":"2.73"}
+,{"dia":"2023-02-11T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.77","percentatge_volum_embassat":"7.8","volum_embassat":"0.95"}
+,{"dia":"2023-02-11T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.35","percentatge_volum_embassat":"30.9","volum_embassat":"18.89"}
+,{"dia":"2023-02-10T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.77","percentatge_volum_embassat":"26.6","volum_embassat":"21.28"}
+,{"dia":"2023-02-10T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"517.62","percentatge_volum_embassat":"42.9","volum_embassat":"10.45"}
+,{"dia":"2023-02-10T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"199.69","percentatge_volum_embassat":"10.1","volum_embassat":"0.54"}
+,{"dia":"2023-02-10T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.76","percentatge_volum_embassat":"7.8","volum_embassat":"0.95"}
+,{"dia":"2023-02-10T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.32","percentatge_volum_embassat":"30.8","volum_embassat":"18.84"}
+,{"dia":"2023-02-10T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"389.6","percentatge_volum_embassat":"17.8","volum_embassat":"29.49"}
+,{"dia":"2023-02-10T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.77","percentatge_volum_embassat":"73","volum_embassat":"2.73"}
+,{"dia":"2023-02-10T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"597.52","percentatge_volum_embassat":"27","volum_embassat":"29.5"}
+,{"dia":"2023-02-10T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"315.67","percentatge_volum_embassat":"36","volum_embassat":"83.8"}
+,{"dia":"2023-02-09T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.3","percentatge_volum_embassat":"30.8","volum_embassat":"18.81"}
+,{"dia":"2023-02-09T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.8","percentatge_volum_embassat":"26.6","volum_embassat":"21.3"}
+,{"dia":"2023-02-09T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"315.75","percentatge_volum_embassat":"36.1","volum_embassat":"84.05"}
+,{"dia":"2023-02-09T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.77","percentatge_volum_embassat":"73","volum_embassat":"2.73"}
+,{"dia":"2023-02-09T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"199.72","percentatge_volum_embassat":"10.2","volum_embassat":"0.54"}
+,{"dia":"2023-02-09T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"389.56","percentatge_volum_embassat":"17.8","volum_embassat":"29.41"}
+,{"dia":"2023-02-09T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"517.64","percentatge_volum_embassat":"42.9","volum_embassat":"10.46"}
+,{"dia":"2023-02-09T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"597.56","percentatge_volum_embassat":"27","volum_embassat":"29.55"}
+,{"dia":"2023-02-09T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.76","percentatge_volum_embassat":"7.8","volum_embassat":"0.95"}
+,{"dia":"2023-02-08T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.76","percentatge_volum_embassat":"72.8","volum_embassat":"2.72"}
+,{"dia":"2023-02-08T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.24","percentatge_volum_embassat":"30.6","volum_embassat":"18.71"}
+,{"dia":"2023-02-08T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"517.65","percentatge_volum_embassat":"43","volum_embassat":"10.47"}
+,{"dia":"2023-02-08T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.74","percentatge_volum_embassat":"7.7","volum_embassat":"0.95"}
+,{"dia":"2023-02-08T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.82","percentatge_volum_embassat":"26.7","volum_embassat":"21.33"}
+,{"dia":"2023-02-08T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"315.79","percentatge_volum_embassat":"36.1","volum_embassat":"84.16"}
+,{"dia":"2023-02-08T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"389.5","percentatge_volum_embassat":"17.7","volum_embassat":"29.29"}
+,{"dia":"2023-02-08T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"199.75","percentatge_volum_embassat":"10.2","volum_embassat":"0.54"}
+,{"dia":"2023-02-08T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"597.59","percentatge_volum_embassat":"27","volum_embassat":"29.6"}
+,{"dia":"2023-02-07T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.67","percentatge_volum_embassat":"71.6","volum_embassat":"2.68"}
+,{"dia":"2023-02-07T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.69","percentatge_volum_embassat":"7.7","volum_embassat":"0.94"}
+,{"dia":"2023-02-07T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.84","percentatge_volum_embassat":"26.7","volum_embassat":"21.35"}
+,{"dia":"2023-02-07T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"315.85","percentatge_volum_embassat":"36.2","volum_embassat":"84.32"}
+,{"dia":"2023-02-07T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"597.62","percentatge_volum_embassat":"27.1","volum_embassat":"29.64"}
+,{"dia":"2023-02-07T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"199.75","percentatge_volum_embassat":"10.2","volum_embassat":"0.55"}
+,{"dia":"2023-02-07T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"389.4","percentatge_volum_embassat":"17.6","volum_embassat":"29.07"}
+,{"dia":"2023-02-07T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"517.68","percentatge_volum_embassat":"43.1","volum_embassat":"10.5"}
+,{"dia":"2023-02-07T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.17","percentatge_volum_embassat":"30.5","volum_embassat":"18.61"}
+,{"dia":"2023-02-06T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"389.45","percentatge_volum_embassat":"17.7","volum_embassat":"29.18"}
+,{"dia":"2023-02-06T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"597.66","percentatge_volum_embassat":"27.1","volum_embassat":"29.7"}
+,{"dia":"2023-02-06T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"517.74","percentatge_volum_embassat":"43.2","volum_embassat":"10.54"}
+,{"dia":"2023-02-06T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.65","percentatge_volum_embassat":"71.3","volum_embassat":"2.67"}
+,{"dia":"2023-02-06T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"199.79","percentatge_volum_embassat":"10.3","volum_embassat":"0.55"}
+,{"dia":"2023-02-06T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.15","percentatge_volum_embassat":"30.4","volum_embassat":"18.57"}
+,{"dia":"2023-02-06T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"315.9","percentatge_volum_embassat":"36.2","volum_embassat":"84.46"}
+,{"dia":"2023-02-06T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.68","percentatge_volum_embassat":"7.7","volum_embassat":"0.94"}
+,{"dia":"2023-02-06T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.87","percentatge_volum_embassat":"26.7","volum_embassat":"21.37"}
+,{"dia":"2023-02-05T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"315.97","percentatge_volum_embassat":"36.3","volum_embassat":"84.61"}
+,{"dia":"2023-02-05T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.89","percentatge_volum_embassat":"26.8","volum_embassat":"21.4"}
+,{"dia":"2023-02-05T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"389.54","percentatge_volum_embassat":"17.8","volum_embassat":"29.37"}
+,{"dia":"2023-02-05T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"517.79","percentatge_volum_embassat":"43.4","volum_embassat":"10.59"}
+,{"dia":"2023-02-05T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.68","percentatge_volum_embassat":"7.7","volum_embassat":"0.94"}
+,{"dia":"2023-02-05T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.16","percentatge_volum_embassat":"30.4","volum_embassat":"18.59"}
+,{"dia":"2023-02-05T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"199.85","percentatge_volum_embassat":"10.5","volum_embassat":"0.56"}
+,{"dia":"2023-02-05T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.65","percentatge_volum_embassat":"71.3","volum_embassat":"2.67"}
+,{"dia":"2023-02-05T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"597.7","percentatge_volum_embassat":"27.2","volum_embassat":"29.75"}
+,{"dia":"2023-02-04T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.19","percentatge_volum_embassat":"30.5","volum_embassat":"18.64"}
+,{"dia":"2023-02-04T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"517.85","percentatge_volum_embassat":"43.6","volum_embassat":"10.64"}
+,{"dia":"2023-02-04T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"199.91","percentatge_volum_embassat":"10.6","volum_embassat":"0.56"}
+,{"dia":"2023-02-04T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.69","percentatge_volum_embassat":"7.7","volum_embassat":"0.94"}
+,{"dia":"2023-02-04T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"597.74","percentatge_volum_embassat":"27.2","volum_embassat":"29.81"}
+,{"dia":"2023-02-04T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.92","percentatge_volum_embassat":"26.8","volum_embassat":"21.43"}
+,{"dia":"2023-02-04T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.64","percentatge_volum_embassat":"71.2","volum_embassat":"2.66"}
+,{"dia":"2023-02-04T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"389.63","percentatge_volum_embassat":"17.9","volum_embassat":"29.57"}
+,{"dia":"2023-02-04T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"316.08","percentatge_volum_embassat":"36.4","volum_embassat":"84.92"}
+,{"dia":"2023-02-03T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.95","percentatge_volum_embassat":"26.8","volum_embassat":"21.45"}
+,{"dia":"2023-02-03T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"389.71","percentatge_volum_embassat":"18","volum_embassat":"29.74"}
+,{"dia":"2023-02-03T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"517.91","percentatge_volum_embassat":"43.8","volum_embassat":"10.69"}
+,{"dia":"2023-02-03T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"316.19","percentatge_volum_embassat":"36.6","volum_embassat":"85.24"}
+,{"dia":"2023-02-03T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"199.94","percentatge_volum_embassat":"10.6","volum_embassat":"0.57"}
+,{"dia":"2023-02-03T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.2","percentatge_volum_embassat":"30.5","volum_embassat":"18.65"}
+,{"dia":"2023-02-03T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.64","percentatge_volum_embassat":"71.2","volum_embassat":"2.66"}
+,{"dia":"2023-02-03T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.69","percentatge_volum_embassat":"7.7","volum_embassat":"0.94"}
+,{"dia":"2023-02-03T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"597.78","percentatge_volum_embassat":"27.3","volum_embassat":"29.86"}
+,{"dia":"2023-02-02T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.97","percentatge_volum_embassat":"26.8","volum_embassat":"21.48"}
+,{"dia":"2023-02-02T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"389.76","percentatge_volum_embassat":"18.1","volum_embassat":"29.85"}
+,{"dia":"2023-02-02T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"597.81","percentatge_volum_embassat":"27.3","volum_embassat":"29.91"}
+,{"dia":"2023-02-02T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.21","percentatge_volum_embassat":"30.5","volum_embassat":"18.66"}
+,{"dia":"2023-02-02T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.65","percentatge_volum_embassat":"71.3","volum_embassat":"2.67"}
+,{"dia":"2023-02-02T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.69","percentatge_volum_embassat":"7.7","volum_embassat":"0.94"}
+,{"dia":"2023-02-02T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"199.97","percentatge_volum_embassat":"10.7","volum_embassat":"0.57"}
+,{"dia":"2023-02-02T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"517.96","percentatge_volum_embassat":"44","volum_embassat":"10.73"}
+,{"dia":"2023-02-02T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"316.22","percentatge_volum_embassat":"36.6","volum_embassat":"85.34"}
+,{"dia":"2023-02-01T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.7","percentatge_volum_embassat":"7.7","volum_embassat":"0.94"}
+,{"dia":"2023-02-01T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"316.43","percentatge_volum_embassat":"36.9","volum_embassat":"85.94"}
+,{"dia":"2023-02-01T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"518","percentatge_volum_embassat":"44.2","volum_embassat":"10.77"}
+,{"dia":"2023-02-01T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"389.81","percentatge_volum_embassat":"18.1","volum_embassat":"29.95"}
+,{"dia":"2023-02-01T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"774.99","percentatge_volum_embassat":"26.9","volum_embassat":"21.5"}
+,{"dia":"2023-02-01T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"597.85","percentatge_volum_embassat":"27.4","volum_embassat":"29.96"}
+,{"dia":"2023-02-01T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.65","percentatge_volum_embassat":"71.3","volum_embassat":"2.67"}
+,{"dia":"2023-02-01T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.24","percentatge_volum_embassat":"30.6","volum_embassat":"18.71"}
+,{"dia":"2023-02-01T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"200","percentatge_volum_embassat":"10.8","volum_embassat":"0.57"}
+,{"dia":"2023-01-31T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.7","percentatge_volum_embassat":"7.7","volum_embassat":"0.94"}
+,{"dia":"2023-01-31T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"316.54","percentatge_volum_embassat":"37","volum_embassat":"86.25"}
+,{"dia":"2023-01-31T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.66","percentatge_volum_embassat":"71.4","volum_embassat":"2.67"}
+,{"dia":"2023-01-31T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"597.87","percentatge_volum_embassat":"27.4","volum_embassat":"30"}
+,{"dia":"2023-01-31T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"200.03","percentatge_volum_embassat":"10.8","volum_embassat":"0.58"}
+,{"dia":"2023-01-31T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"389.86","percentatge_volum_embassat":"18.2","volum_embassat":"30.06"}
+,{"dia":"2023-01-31T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"518.03","percentatge_volum_embassat":"44.3","volum_embassat":"10.79"}
+,{"dia":"2023-01-31T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"775.01","percentatge_volum_embassat":"26.9","volum_embassat":"21.52"}
+,{"dia":"2023-01-31T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.24","percentatge_volum_embassat":"30.6","volum_embassat":"18.72"}
+,{"dia":"2023-01-30T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.71","percentatge_volum_embassat":"7.7","volum_embassat":"0.94"}
+,{"dia":"2023-01-30T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"316.61","percentatge_volum_embassat":"37.1","volum_embassat":"86.47"}
+,{"dia":"2023-01-30T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"597.9","percentatge_volum_embassat":"27.5","volum_embassat":"30.04"}
+,{"dia":"2023-01-30T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.66","percentatge_volum_embassat":"71.4","volum_embassat":"2.67"}
+,{"dia":"2023-01-30T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"518.06","percentatge_volum_embassat":"44.4","volum_embassat":"10.82"}
+,{"dia":"2023-01-30T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"200.06","percentatge_volum_embassat":"10.9","volum_embassat":"0.58"}
+,{"dia":"2023-01-30T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.25","percentatge_volum_embassat":"30.7","volum_embassat":"18.73"}
+,{"dia":"2023-01-30T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"775.03","percentatge_volum_embassat":"26.9","volum_embassat":"21.54"}
+,{"dia":"2023-01-30T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"389.92","percentatge_volum_embassat":"18.3","volum_embassat":"30.19"}
+,{"dia":"2023-01-29T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"775.06","percentatge_volum_embassat":"27","volum_embassat":"21.57"}
+,{"dia":"2023-01-29T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.71","percentatge_volum_embassat":"7.7","volum_embassat":"0.94"}
+,{"dia":"2023-01-29T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"316.72","percentatge_volum_embassat":"37.3","volum_embassat":"86.79"}
+,{"dia":"2023-01-29T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"597.94","percentatge_volum_embassat":"27.5","volum_embassat":"30.09"}
+,{"dia":"2023-01-29T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"389.97","percentatge_volum_embassat":"18.3","volum_embassat":"30.31"}
+,{"dia":"2023-01-29T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.28","percentatge_volum_embassat":"30.7","volum_embassat":"18.78"}
+,{"dia":"2023-01-29T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"200.1","percentatge_volum_embassat":"11","volum_embassat":"0.58"}
+,{"dia":"2023-01-29T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"518.09","percentatge_volum_embassat":"44.5","volum_embassat":"10.84"}
+,{"dia":"2023-01-29T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.65","percentatge_volum_embassat":"71.4","volum_embassat":"2.67"}
+,{"dia":"2023-01-28T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"518.11","percentatge_volum_embassat":"44.6","volum_embassat":"10.87"}
+,{"dia":"2023-01-28T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.28","percentatge_volum_embassat":"30.7","volum_embassat":"18.78"}
+,{"dia":"2023-01-28T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"200.2","percentatge_volum_embassat":"11.2","volum_embassat":"0.6"}
+,{"dia":"2023-01-28T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.71","percentatge_volum_embassat":"7.7","volum_embassat":"0.94"}
+,{"dia":"2023-01-28T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.65","percentatge_volum_embassat":"71.3","volum_embassat":"2.67"}
+,{"dia":"2023-01-28T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"597.97","percentatge_volum_embassat":"27.5","volum_embassat":"30.14"}
+,{"dia":"2023-01-28T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"316.79","percentatge_volum_embassat":"37.3","volum_embassat":"86.99"}
+,{"dia":"2023-01-28T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"390.03","percentatge_volum_embassat":"18.4","volum_embassat":"30.43"}
+,{"dia":"2023-01-28T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"775.08","percentatge_volum_embassat":"27","volum_embassat":"21.59"}
+,{"dia":"2023-01-27T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.72","percentatge_volum_embassat":"7.7","volum_embassat":"0.94"}
+,{"dia":"2023-01-27T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"775.11","percentatge_volum_embassat":"27","volum_embassat":"21.62"}
+,{"dia":"2023-01-27T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"200.32","percentatge_volum_embassat":"11.5","volum_embassat":"0.61"}
+,{"dia":"2023-01-27T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.29","percentatge_volum_embassat":"30.8","volum_embassat":"18.8"}
+,{"dia":"2023-01-27T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"390.08","percentatge_volum_embassat":"18.5","volum_embassat":"30.55"}
+,{"dia":"2023-01-27T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.65","percentatge_volum_embassat":"71.3","volum_embassat":"2.67"}
+,{"dia":"2023-01-27T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"518.14","percentatge_volum_embassat":"44.7","volum_embassat":"10.89"}
+,{"dia":"2023-01-27T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"316.85","percentatge_volum_embassat":"37.4","volum_embassat":"87.18"}
+,{"dia":"2023-01-27T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"598.01","percentatge_volum_embassat":"27.6","volum_embassat":"30.19"}
+,{"dia":"2023-01-26T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"518.17","percentatge_volum_embassat":"44.8","volum_embassat":"10.92"}
+,{"dia":"2023-01-26T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.32","percentatge_volum_embassat":"30.8","volum_embassat":"18.85"}
+,{"dia":"2023-01-26T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.65","percentatge_volum_embassat":"71.3","volum_embassat":"2.67"}
+,{"dia":"2023-01-26T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"390.14","percentatge_volum_embassat":"18.6","volum_embassat":"30.67"}
+,{"dia":"2023-01-26T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"316.97","percentatge_volum_embassat":"37.6","volum_embassat":"87.52"}
+,{"dia":"2023-01-26T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"200.44","percentatge_volum_embassat":"11.7","volum_embassat":"0.62"}
+,{"dia":"2023-01-26T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.72","percentatge_volum_embassat":"7.7","volum_embassat":"0.94"}
+,{"dia":"2023-01-26T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"775.13","percentatge_volum_embassat":"27.1","volum_embassat":"21.64"}
+,{"dia":"2023-01-26T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"598.04","percentatge_volum_embassat":"27.6","volum_embassat":"30.24"}
+,{"dia":"2023-01-25T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"598.08","percentatge_volum_embassat":"27.7","volum_embassat":"30.29"}
+,{"dia":"2023-01-25T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.64","percentatge_volum_embassat":"71.2","volum_embassat":"2.66"}
+,{"dia":"2023-01-25T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"518.2","percentatge_volum_embassat":"44.9","volum_embassat":"10.94"}
+,{"dia":"2023-01-25T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.33","percentatge_volum_embassat":"30.9","volum_embassat":"18.87"}
+,{"dia":"2023-01-25T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"390.19","percentatge_volum_embassat":"18.6","volum_embassat":"30.78"}
+,{"dia":"2023-01-25T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.73","percentatge_volum_embassat":"7.7","volum_embassat":"0.94"}
+,{"dia":"2023-01-25T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"317.04","percentatge_volum_embassat":"37.6","volum_embassat":"87.68"}
+,{"dia":"2023-01-25T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"200.5","percentatge_volum_embassat":"11.8","volum_embassat":"0.63"}
+,{"dia":"2023-01-25T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"775.15","percentatge_volum_embassat":"27.1","volum_embassat":"21.67"}
+,{"dia":"2023-01-23T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"775.19","percentatge_volum_embassat":"27.1","volum_embassat":"21.71"}
+,{"dia":"2023-01-23T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"200.57","percentatge_volum_embassat":"12","volum_embassat":"0.64"}
+,{"dia":"2023-01-23T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"518.25","percentatge_volum_embassat":"45.1","volum_embassat":"10.99"}
+,{"dia":"2023-01-23T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.73","percentatge_volum_embassat":"7.7","volum_embassat":"0.94"}
+,{"dia":"2023-01-23T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"598.14","percentatge_volum_embassat":"27.8","volum_embassat":"30.37"}
+,{"dia":"2023-01-23T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"317.29","percentatge_volum_embassat":"38","volum_embassat":"88.44"}
+,{"dia":"2023-01-23T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.36","percentatge_volum_embassat":"31","volum_embassat":"18.92"}
+,{"dia":"2023-01-23T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.69","percentatge_volum_embassat":"71.8","volum_embassat":"2.69"}
+,{"dia":"2023-01-23T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"390.29","percentatge_volum_embassat":"18.8","volum_embassat":"31.01"}
+,{"dia":"2023-01-22T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"775.21","percentatge_volum_embassat":"27.2","volum_embassat":"21.72"}
+,{"dia":"2023-01-22T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"200.6","percentatge_volum_embassat":"12.1","volum_embassat":"0.64"}
+,{"dia":"2023-01-22T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.74","percentatge_volum_embassat":"7.7","volum_embassat":"0.95"}
+,{"dia":"2023-01-22T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"518.28","percentatge_volum_embassat":"45.2","volum_embassat":"11.01"}
+,{"dia":"2023-01-22T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"598.17","percentatge_volum_embassat":"27.8","volum_embassat":"30.42"}
+,{"dia":"2023-01-22T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"390.35","percentatge_volum_embassat":"18.8","volum_embassat":"31.13"}
+,{"dia":"2023-01-22T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"317.36","percentatge_volum_embassat":"38","volum_embassat":"88.65"}
+,{"dia":"2023-01-22T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.38","percentatge_volum_embassat":"31","volum_embassat":"18.94"}
+,{"dia":"2023-01-22T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.69","percentatge_volum_embassat":"71.9","volum_embassat":"2.69"}
+,{"dia":"2023-01-21T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.41","percentatge_volum_embassat":"31.1","volum_embassat":"18.99"}
+,{"dia":"2023-01-21T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.75","percentatge_volum_embassat":"7.7","volum_embassat":"0.95"}
+,{"dia":"2023-01-21T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"317.43","percentatge_volum_embassat":"38.1","volum_embassat":"88.86"}
+,{"dia":"2023-01-21T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"200.64","percentatge_volum_embassat":"12.1","volum_embassat":"0.65"}
+,{"dia":"2023-01-21T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"775.23","percentatge_volum_embassat":"27.2","volum_embassat":"21.74"}
+,{"dia":"2023-01-21T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"598.21","percentatge_volum_embassat":"27.9","volum_embassat":"30.48"}
+,{"dia":"2023-01-21T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"518.31","percentatge_volum_embassat":"45.3","volum_embassat":"11.03"}
+,{"dia":"2023-01-21T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.69","percentatge_volum_embassat":"71.9","volum_embassat":"2.69"}
+,{"dia":"2023-01-21T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"390.4","percentatge_volum_embassat":"18.9","volum_embassat":"31.24"}
+,{"dia":"2023-01-20T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"598.25","percentatge_volum_embassat":"27.9","volum_embassat":"30.53"}
+,{"dia":"2023-01-20T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"317.52","percentatge_volum_embassat":"38.2","volum_embassat":"89.08"}
+,{"dia":"2023-01-20T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"775.24","percentatge_volum_embassat":"27.2","volum_embassat":"21.76"}
+,{"dia":"2023-01-20T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.75","percentatge_volum_embassat":"7.7","volum_embassat":"0.95"}
+,{"dia":"2023-01-20T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.68","percentatge_volum_embassat":"71.8","volum_embassat":"2.69"}
+,{"dia":"2023-01-20T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"200.68","percentatge_volum_embassat":"12.2","volum_embassat":"0.65"}
+,{"dia":"2023-01-20T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"518.33","percentatge_volum_embassat":"45.4","volum_embassat":"11.06"}
+,{"dia":"2023-01-20T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.43","percentatge_volum_embassat":"31.1","volum_embassat":"19.02"}
+,{"dia":"2023-01-20T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"390.46","percentatge_volum_embassat":"19","volum_embassat":"31.37"}
+,{"dia":"2023-01-19T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.44","percentatge_volum_embassat":"31.2","volum_embassat":"19.04"}
+,{"dia":"2023-01-19T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"200.72","percentatge_volum_embassat":"12.3","volum_embassat":"0.65"}
+,{"dia":"2023-01-19T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"518.34","percentatge_volum_embassat":"45.4","volum_embassat":"11.06"}
+,{"dia":"2023-01-19T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"598.28","percentatge_volum_embassat":"27.9","volum_embassat":"30.57"}
+,{"dia":"2023-01-19T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"390.5","percentatge_volum_embassat":"19","volum_embassat":"31.47"}
+,{"dia":"2023-01-19T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"317.61","percentatge_volum_embassat":"38.5","volum_embassat":"89.76"}
+,{"dia":"2023-01-19T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.75","percentatge_volum_embassat":"7.8","volum_embassat":"0.95"}
+,{"dia":"2023-01-19T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"775.26","percentatge_volum_embassat":"27.2","volum_embassat":"21.77"}
+,{"dia":"2023-01-19T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.68","percentatge_volum_embassat":"71.7","volum_embassat":"2.68"}
+,{"dia":"2023-01-18T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"775.27","percentatge_volum_embassat":"27.2","volum_embassat":"21.79"}
+,{"dia":"2023-01-18T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"390.52","percentatge_volum_embassat":"19.1","volum_embassat":"31.51"}
+,{"dia":"2023-01-18T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"317.88","percentatge_volum_embassat":"38.7","volum_embassat":"90.12"}
+,{"dia":"2023-01-18T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.69","percentatge_volum_embassat":"71.9","volum_embassat":"2.69"}
+,{"dia":"2023-01-18T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.76","percentatge_volum_embassat":"7.8","volum_embassat":"0.95"}
+,{"dia":"2023-01-18T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"598.31","percentatge_volum_embassat":"28","volum_embassat":"30.62"}
+,{"dia":"2023-01-18T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"200.75","percentatge_volum_embassat":"12.4","volum_embassat":"0.66"}
+,{"dia":"2023-01-18T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"518.34","percentatge_volum_embassat":"45.4","volum_embassat":"11.06"}
+,{"dia":"2023-01-18T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.45","percentatge_volum_embassat":"31.2","volum_embassat":"19.06"}
+,{"dia":"2023-01-17T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.46","percentatge_volum_embassat":"31.2","volum_embassat":"19.08"}
+,{"dia":"2023-01-17T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"518.34","percentatge_volum_embassat":"45.4","volum_embassat":"11.07"}
+,{"dia":"2023-01-17T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.69","percentatge_volum_embassat":"71.9","volum_embassat":"2.69"}
+,{"dia":"2023-01-17T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"317.88","percentatge_volum_embassat":"38.9","volum_embassat":"90.63"}
+,{"dia":"2023-01-17T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"775.28","percentatge_volum_embassat":"27.2","volum_embassat":"21.79"}
+,{"dia":"2023-01-17T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"200.78","percentatge_volum_embassat":"12.5","volum_embassat":"0.66"}
+,{"dia":"2023-01-17T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"390.53","percentatge_volum_embassat":"19.1","volum_embassat":"31.52"}
+,{"dia":"2023-01-17T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"598.34","percentatge_volum_embassat":"28","volum_embassat":"30.66"}
+,{"dia":"2023-01-17T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.76","percentatge_volum_embassat":"7.8","volum_embassat":"0.95"}
+,{"dia":"2023-01-16T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.48","percentatge_volum_embassat":"31.3","volum_embassat":"19.1"}
+,{"dia":"2023-01-16T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.76","percentatge_volum_embassat":"7.8","volum_embassat":"0.95"}
+,{"dia":"2023-01-16T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"775.27","percentatge_volum_embassat":"27.2","volum_embassat":"21.79"}
+,{"dia":"2023-01-16T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"200.82","percentatge_volum_embassat":"12.5","volum_embassat":"0.67"}
+,{"dia":"2023-01-16T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"518.35","percentatge_volum_embassat":"45.4","volum_embassat":"11.08"}
+,{"dia":"2023-01-16T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"390.53","percentatge_volum_embassat":"19.1","volum_embassat":"31.53"}
+,{"dia":"2023-01-16T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.69","percentatge_volum_embassat":"71.9","volum_embassat":"2.69"}
+,{"dia":"2023-01-16T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"598.34","percentatge_volum_embassat":"28","volum_embassat":"30.68"}
+,{"dia":"2023-01-16T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"317.87","percentatge_volum_embassat":"39","volum_embassat":"90.93"}
+,{"dia":"2023-01-15T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.48","percentatge_volum_embassat":"31.3","volum_embassat":"19.1"}
+,{"dia":"2023-01-15T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"518.37","percentatge_volum_embassat":"45.5","volum_embassat":"11.09"}
+,{"dia":"2023-01-15T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"318.27","percentatge_volum_embassat":"39.1","volum_embassat":"91.17"}
+,{"dia":"2023-01-15T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.77","percentatge_volum_embassat":"7.8","volum_embassat":"0.95"}
+,{"dia":"2023-01-15T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"598.37","percentatge_volum_embassat":"28.1","volum_embassat":"30.71"}
+,{"dia":"2023-01-15T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"200.86","percentatge_volum_embassat":"12.6","volum_embassat":"0.67"}
+,{"dia":"2023-01-15T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.68","percentatge_volum_embassat":"71.8","volum_embassat":"2.69"}
+,{"dia":"2023-01-15T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"390.55","percentatge_volum_embassat":"19.1","volum_embassat":"31.57"}
+,{"dia":"2023-01-15T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"775.28","percentatge_volum_embassat":"27.3","volum_embassat":"21.8"}
+,{"dia":"2023-01-14T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"318.36","percentatge_volum_embassat":"39.3","volum_embassat":"91.46"}
+,{"dia":"2023-01-14T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"390.56","percentatge_volum_embassat":"19.1","volum_embassat":"31.6"}
+,{"dia":"2023-01-14T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.51","percentatge_volum_embassat":"31.3","volum_embassat":"19.15"}
+,{"dia":"2023-01-14T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.77","percentatge_volum_embassat":"7.8","volum_embassat":"0.95"}
+,{"dia":"2023-01-14T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"598.4","percentatge_volum_embassat":"28.1","volum_embassat":"30.75"}
+,{"dia":"2023-01-14T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"518.38","percentatge_volum_embassat":"45.5","volum_embassat":"11.1"}
+,{"dia":"2023-01-14T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"200.89","percentatge_volum_embassat":"12.7","volum_embassat":"0.67"}
+,{"dia":"2023-01-14T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"775.3","percentatge_volum_embassat":"27.3","volum_embassat":"21.81"}
+,{"dia":"2023-01-14T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.68","percentatge_volum_embassat":"71.8","volum_embassat":"2.69"}
+,{"dia":"2023-01-13T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"390.57","percentatge_volum_embassat":"19.1","volum_embassat":"31.62"}
+,{"dia":"2023-01-13T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.68","percentatge_volum_embassat":"71.8","volum_embassat":"2.68"}
+,{"dia":"2023-01-13T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"775.31","percentatge_volum_embassat":"27.3","volum_embassat":"21.83"}
+,{"dia":"2023-01-13T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.51","percentatge_volum_embassat":"31.3","volum_embassat":"19.15"}
+,{"dia":"2023-01-13T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"598.43","percentatge_volum_embassat":"28.1","volum_embassat":"30.8"}
+,{"dia":"2023-01-13T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"518.39","percentatge_volum_embassat":"45.6","volum_embassat":"11.11"}
+,{"dia":"2023-01-13T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"318.48","percentatge_volum_embassat":"39.4","volum_embassat":"91.8"}
+,{"dia":"2023-01-13T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"200.93","percentatge_volum_embassat":"12.8","volum_embassat":"0.68"}
+,{"dia":"2023-01-13T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.78","percentatge_volum_embassat":"7.8","volum_embassat":"0.95"}
+,{"dia":"2023-01-12T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.78","percentatge_volum_embassat":"7.8","volum_embassat":"0.95"}
+,{"dia":"2023-01-12T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.68","percentatge_volum_embassat":"71.7","volum_embassat":"2.68"}
+,{"dia":"2023-01-12T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"598.45","percentatge_volum_embassat":"28.2","volum_embassat":"30.83"}
+,{"dia":"2023-01-12T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"318.61","percentatge_volum_embassat":"39.6","volum_embassat":"92.21"}
+,{"dia":"2023-01-12T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"775.32","percentatge_volum_embassat":"27.3","volum_embassat":"21.84"}
+,{"dia":"2023-01-12T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"200.96","percentatge_volum_embassat":"12.8","volum_embassat":"0.68"}
+,{"dia":"2023-01-12T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.52","percentatge_volum_embassat":"31.4","volum_embassat":"19.18"}
+,{"dia":"2023-01-12T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"390.58","percentatge_volum_embassat":"19.1","volum_embassat":"31.64"}
+,{"dia":"2023-01-12T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"518.4","percentatge_volum_embassat":"45.6","volum_embassat":"11.12"}
+,{"dia":"2023-01-11T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.54","percentatge_volum_embassat":"31.4","volum_embassat":"19.2"}
+,{"dia":"2023-01-11T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"598.48","percentatge_volum_embassat":"28.2","volum_embassat":"30.87"}
+,{"dia":"2023-01-11T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"775.33","percentatge_volum_embassat":"27.3","volum_embassat":"21.85"}
+,{"dia":"2023-01-11T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.68","percentatge_volum_embassat":"71.8","volum_embassat":"2.68"}
+,{"dia":"2023-01-11T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"318.74","percentatge_volum_embassat":"39.7","volum_embassat":"92.58"}
+,{"dia":"2023-01-11T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"390.59","percentatge_volum_embassat":"19.2","volum_embassat":"31.65"}
+,{"dia":"2023-01-11T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"518.42","percentatge_volum_embassat":"45.7","volum_embassat":"11.13"}
+,{"dia":"2023-01-11T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.79","percentatge_volum_embassat":"7.8","volum_embassat":"0.95"}
+,{"dia":"2023-01-11T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"200.99","percentatge_volum_embassat":"12.9","volum_embassat":"0.69"}
+,{"dia":"2023-01-10T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"390.59","percentatge_volum_embassat":"19.2","volum_embassat":"31.66"}
+,{"dia":"2023-01-10T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"598.51","percentatge_volum_embassat":"28.3","volum_embassat":"30.91"}
+,{"dia":"2023-01-10T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"318.86","percentatge_volum_embassat":"39.9","volum_embassat":"92.93"}
+,{"dia":"2023-01-10T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.7","percentatge_volum_embassat":"72","volum_embassat":"2.69"}
+,{"dia":"2023-01-10T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.56","percentatge_volum_embassat":"31.5","volum_embassat":"19.23"}
+,{"dia":"2023-01-10T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"775.34","percentatge_volum_embassat":"27.3","volum_embassat":"21.86"}
+,{"dia":"2023-01-10T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"518.43","percentatge_volum_embassat":"45.7","volum_embassat":"11.14"}
+,{"dia":"2023-01-10T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.79","percentatge_volum_embassat":"7.8","volum_embassat":"0.95"}
+,{"dia":"2023-01-10T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"201.02","percentatge_volum_embassat":"13","volum_embassat":"0.69"}
+,{"dia":"2023-01-09T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"201.07","percentatge_volum_embassat":"13.1","volum_embassat":"0.69"}
+,{"dia":"2023-01-09T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"598.54","percentatge_volum_embassat":"28.3","volum_embassat":"30.96"}
+,{"dia":"2023-01-09T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.79","percentatge_volum_embassat":"7.8","volum_embassat":"0.95"}
+,{"dia":"2023-01-09T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"775.35","percentatge_volum_embassat":"27.3","volum_embassat":"21.87"}
+,{"dia":"2023-01-09T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"390.59","percentatge_volum_embassat":"19.2","volum_embassat":"31.66"}
+,{"dia":"2023-01-09T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.72","percentatge_volum_embassat":"72.2","volum_embassat":"2.7"}
+,{"dia":"2023-01-09T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"319","percentatge_volum_embassat":"40.1","volum_embassat":"93.32"}
+,{"dia":"2023-01-09T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.56","percentatge_volum_embassat":"31.5","volum_embassat":"19.23"}
+,{"dia":"2023-01-09T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"518.44","percentatge_volum_embassat":"45.7","volum_embassat":"11.15"}
+,{"dia":"2023-01-08T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"598.56","percentatge_volum_embassat":"28.3","volum_embassat":"31"}
+,{"dia":"2023-01-08T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"390.59","percentatge_volum_embassat":"19.2","volum_embassat":"31.66"}
+,{"dia":"2023-01-08T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"319.01","percentatge_volum_embassat":"40.2","volum_embassat":"93.61"}
+,{"dia":"2023-01-08T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.72","percentatge_volum_embassat":"72.3","volum_embassat":"2.7"}
+,{"dia":"2023-01-08T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"775.35","percentatge_volum_embassat":"27.3","volum_embassat":"21.87"}
+,{"dia":"2023-01-08T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.8","percentatge_volum_embassat":"7.8","volum_embassat":"0.96"}
+,{"dia":"2023-01-08T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"201.09","percentatge_volum_embassat":"13.1","volum_embassat":"0.7"}
+,{"dia":"2023-01-08T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"518.44","percentatge_volum_embassat":"45.7","volum_embassat":"11.15"}
+,{"dia":"2023-01-08T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.57","percentatge_volum_embassat":"31.5","volum_embassat":"19.25"}
+,{"dia":"2023-01-07T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"390.6","percentatge_volum_embassat":"19.2","volum_embassat":"31.68"}
+,{"dia":"2023-01-07T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.8","percentatge_volum_embassat":"7.8","volum_embassat":"0.96"}
+,{"dia":"2023-01-07T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"201.13","percentatge_volum_embassat":"13.2","volum_embassat":"0.7"}
+,{"dia":"2023-01-07T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"598.58","percentatge_volum_embassat":"28.4","volum_embassat":"31.02"}
+,{"dia":"2023-01-07T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"518.45","percentatge_volum_embassat":"45.8","volum_embassat":"11.16"}
+,{"dia":"2023-01-07T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.72","percentatge_volum_embassat":"72.2","volum_embassat":"2.7"}
+,{"dia":"2023-01-07T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.59","percentatge_volum_embassat":"31.6","volum_embassat":"19.28"}
+,{"dia":"2023-01-07T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"319.19","percentatge_volum_embassat":"40.3","volum_embassat":"93.96"}
+,{"dia":"2023-01-07T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"775.36","percentatge_volum_embassat":"27.4","volum_embassat":"21.88"}
+,{"dia":"2023-01-06T00:00:00.000","estaci":"Embassament de Darnius Boadella (Darnius)","nivell_absolut":"142.59","percentatge_volum_embassat":"31.6","volum_embassat":"19.29"}
+,{"dia":"2023-01-06T00:00:00.000","estaci":"Embassament de Siurana (Cornudella de Montsant)","nivell_absolut":"458.81","percentatge_volum_embassat":"7.8","volum_embassat":"0.96"}
+,{"dia":"2023-01-06T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"390.6","percentatge_volum_embassat":"19.2","volum_embassat":"31.69"}
+,{"dia":"2023-01-06T00:00:00.000","estaci":"Embassament de Foix (Castellet i la Gornal)","nivell_absolut":"98.71","percentatge_volum_embassat":"72.2","volum_embassat":"2.7"}
+,{"dia":"2023-01-06T00:00:00.000","estaci":"Embassament de la Baells (Cercs)","nivell_absolut":"598.61","percentatge_volum_embassat":"28.4","volum_embassat":"31.07"}
+,{"dia":"2023-01-06T00:00:00.000","estaci":"Embassament de Sant Ponç (Clariana de Cardener)","nivell_absolut":"518.46","percentatge_volum_embassat":"45.8","volum_embassat":"11.17"}
+,{"dia":"2023-01-06T00:00:00.000","estaci":"Embassament de Susqueda (Osor)","nivell_absolut":"319.33","percentatge_volum_embassat":"40.5","volum_embassat":"94.35"}
+,{"dia":"2023-01-06T00:00:00.000","estaci":"Embassament de Riudecanyes","nivell_absolut":"201.16","percentatge_volum_embassat":"13.3","volum_embassat":"0.71"}
+,{"dia":"2023-01-06T00:00:00.000","estaci":"Embassament de la Llosa del Cavall (Navès)","nivell_absolut":"775.37","percentatge_volum_embassat":"27.4","volum_embassat":"21.89"}
+,{"dia":"2023-01-05T00:00:00.000","estaci":"Embassament de Sau (Vilanova de Sau)","nivell_absolut":"390.61","percentatge_volum_embassat":"19.2","volum_embassat":"31.7"}]
