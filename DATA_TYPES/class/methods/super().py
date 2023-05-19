@@ -8,10 +8,11 @@ class Person():
 
 class Child(Person):
     def __init__(self, id, name, email):
-        super().__init__(id, name)
+        super().__init__(id, name) # inhertis the variables
         self.email = email
 
-e = Child(10, "marc", "KKK@gmails")
-print('The ID is:', e.id)
-print('The Name is:', e.name)
-print('The Emails is:', e.email)
+e = Child(10, "marc", "KKK@gmail.com")
+
+print('The ID is:', e.id) # The ID is 10
+print('The name is:', e.name) # The name is marc
+print('The email is:', e.email) # The email is KKK@gmail.com

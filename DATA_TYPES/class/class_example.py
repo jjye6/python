@@ -1,13 +1,10 @@
 class Dog:
-
-    attr1 = "mammal"
-    attr2 = "dog"
+    ex = "mammal"
 
     def fun(self):
-        print("I'm a", self.attr1)
-        print("I'm a", self.attr2)
+        print("I'm a", self.ex)
 
 d = Dog() # instance
 
-print(d.attr1)
-d.fun()
+d.fun() # I'm a mammal
+print(d.ex) # mammal

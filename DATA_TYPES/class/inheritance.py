@@ -1,23 +1,22 @@
-# Allows you to create a hierarchy of classes that share a set of properties and methods
-# by deriving a class from another class.
+# Allows you to create a hierarchy of classes that share a set of properties and methods by deriving a class from another class.
 
 class Person():
     def __init__(self, name):
         self.name = name
 
-    def getName(self):
+    def get_name(self):
         return self.name
 
-    def isEmployee(self):
+    def employee(self):
         return False
 
 # Inherited or subclass
 class Employee(Person):
-    def isEmployee(self): # changes
+    def employee(self): # changes
         return True
 
-emp = Person("Geek1")
-print(emp.getName(), emp.isEmployee())
+ex = Person("Carlos")
+print(ex.get_name(), ex.employee()) # Carlos False
 
-emp = Employee("Geek2")  # An Object of Employee
-print(emp.getName(), emp.isEmployee())
+ex = Employee("Roberto")
+print(ex.get_name(), ex.employee()) # Roberto True

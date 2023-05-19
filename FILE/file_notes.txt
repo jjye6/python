@@ -1,7 +1,8 @@
 - only one:
     w: write
     r: read
-- with:
+- optional:
     t: create
 
-- while reading something, the end point is saved
+- while reading something, the end point is saved.
+- while writing, file is emptied only when executing again.

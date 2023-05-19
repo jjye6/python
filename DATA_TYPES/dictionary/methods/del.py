@@ -6,4 +6,4 @@ players = {"Carlos": 10,
 
 del players["Carlos"]
 
-print(players)
+print(players) # {'Javier': 12, 'Marc': 16}

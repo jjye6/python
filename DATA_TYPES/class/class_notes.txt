@@ -1,3 +1,4 @@
 - Functions in classes are called methods
 - Variables in classes are called objects
 - Methods must have self as first parameter
+- Only when calling variables use self.var

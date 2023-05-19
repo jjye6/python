@@ -11,8 +11,8 @@ class Person:
 m = Person("Marc")
 p = Person("Pedro")
 
-print(m.name)
-print(p.name)
+print(m.name) # Marc
+print(p.name) # Pedor
 
-m.say_hi()
-p.say_hi()
+m.say_hi() # Hello, my name is Marc
+p.say_hi() # Hello, my name is Pedro
