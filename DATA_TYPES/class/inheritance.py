@@ -1,4 +1,4 @@
-# Allows you to create a hierarchy of classes that share a set of properties and methods by deriving a class from another class.
+# Allows you to create a hierarchy of classes that share a set of properties and methods_class by deriving a class from another class.
 
 class Person():
     def __init__(self, name):
